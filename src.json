@@ -1,0 +1,327 @@
+{
+    "name": "LiveContainer + SideStore (nightly)",
+    "identifier": "com.SideStore.SideStore",
+    "website": "https://github.com/suprdratts/LCSideStore",
+    "subtitle": "LiveContainer + SideStore",
+    "description": "This is an unofficial AltStore Source for LiveContainer + SideStore (nightly).\n\n Run iOS apps without actually installing them!",
+    "tintColor": "#0784FC",
+    "iconURL": "https://raw.githubusercontent.com/suprdratts/LiveContainer/main/screenshots/AppIcon1024.png",
+    "headerURL": "https://raw.githubusercontent.com/suprdratts/LiveContainer/main/screenshots/header.png",
+    "apps": [
+        {
+            "beta": false,
+            "name": "LiveContainer + SideStore (nightly)",
+            "bundleIdentifier": "com.kdt.livecontainer",
+            "developerName": "LiveContainer Team + SideStore Team",
+            "subtitle": "Run iOS apps without actually installing them!",
+            "version": "3.6.59",
+            "versionDate": "2025-11-22",
+            "versionDescription": "This is a reminder that this is a third-party LiveContainer and SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you.\n\nDescription from SideStore 0.6.3-20251124.25+bedda8c:\nThis is release for:\n  - version: \"0.6.3-nightly.2025.11.24.25+bedda8c6\"\n  - revision: \"bedda8c\"\n  - timestamp: \"Mon Nov 24 21:18:25 2025\"\n\nRelease Notes:\n#### What's Changed\n- Merge pull request #1078 from CelloSerenity/csdev\n- Update error messages to reference iloader\n- Merge branch 'SideStore:develop' into csdev\n- Merge branch 'SideStore:develop' into csdev\n- Update README.md\n- Fix version numbering\n- Update OperationError.swift\n- Enhance error messages for UDID and SideJIT issues\n- Update error messages for clarity and detail\n\n#### Full Changelog: [606140a7...bedda8c6](https://github.com/SideStore/SideStore/compare/606140a7be508728dafafed9ea7bba1915c5de9d...bedda8c6a40bc2851ddd9d8cb798ec41e4d550e5)\n\nDescription from LiveContainer 3.6.59 (e06a1f1):\nundefined\n    ",
+            "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
+            "localizedDescription": "Run iOS apps without actually installing them!",
+            "iconURL": "https://raw.githubusercontent.com/suprdratts/LiveContainer/main/screenshots/AppIcon1024.png",
+            "tintColor": "#0784FC",
+            "category": "utilities",
+            "size": 4383580,
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/suprdratts/LiveContainer/main/screenshots/1.png",
+                "https://sidestore.io/apps-v2.json/apps/sidestore/browse-dark.png",
+                "https://sidestore.io/apps-v2.json/apps/sidestore/apps-dark.png",
+                "https://sidestore.io/apps-v2.json/apps/sidestore/news-dark.png",
+                "https://sidestore.io/apps-v2.json/apps/sidestore/browse-light.png",
+                "https://sidestore.io/apps-v2.json/apps/sidestore/apps-light.png",
+                "https://sidestore.io/apps-v2.json/apps/sidestore/news-light.png"
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    {
+                        "name": "application-identifier"
+                    },
+                    {
+                        "name": "com.apple.security.application-groups"
+                    },
+                    {
+                        "name": "get-task-allow"
+                    },
+                    {
+                        "name": "keychain-access-groups"
+                    },
+                    {
+                        "name": "com.apple.developer.kernel.extended-virtual-addressing"
+                    },
+                    {
+                        "name": "com.apple.developer.kernel.increased-memory-limit"
+                    },
+                    {
+                        "name": "com.apple.developer.healthkit.background-delivery"
+                    },
+                    {
+                        "name": "com.apple.developer.healthkit"
+                    },
+                    {
+                        "name": "com.apple.developer.healthkit.access"
+                    },
+                    {
+                        "name": "aps-environment"
+                    },
+                    {
+                        "name": "com.apple.developer.siri"
+                    }
+                ],
+                "privacy": {
+                    "LSRequiresIPhoneOS": "The guest app is requesting for this permission.",
+                    "NFCReaderUsageDescription": "The guest app is requesting for this permission.",
+                    "NSAppleMusicUsageDescription": "The guest app is requesting for this permission.",
+                    "NSBluetoothAlwaysUsageDescription": "The guest app is requesting for this permission.",
+                    "NSBluetoothPeripheralUsageDescription": "The guest app is requesting for this permission.",
+                    "NSCalendarsFullAccessUsageDescription": "The guest app is requesting for this permission.",
+                    "NSCalendarsWriteOnlyAccessUsageDescription": "The guest app is requesting for this permission.",
+                    "NSCameraUsageDescription": "The guest app is requesting for this permission.",
+                    "NSContactsUsageDescription": "The guest app is requesting for this permission.",
+                    "NSFaceIDUsageDescription": "The guest app is requesting for this permission.",
+                    "NSFallDetectionUsageDescription": "The guest app is requesting for this permission.",
+                    "NSGKFriendListUsageDescription": "The guest app is requesting for this permission.",
+                    "NSHealthClinicalHealthRecordsShareUsageDescription": "The guest app is requesting for this permission.",
+                    "NSHealthRequiredReadAuthorizationTypeIdentifiers": "The guest app is requesting for this permission.",
+                    "NSHomeKitUsageDescription": "The guest app is requesting for this permission.",
+                    "NSIdentityUsageDescription": "The guest app is requesting for this permission.",
+                    "NSLocalNetworkUsageDescription": "The guest app is requesting for this permission.",
+                    "NSLocationDefaultAccuracyReduced": "The guest app is requesting for this permission.",
+                    "NSLocationTemporaryUsageDescriptionDictionary": "The guest app is requesting for this permission.",
+                    "NSLocationUsageDescription": "The guest app is requesting for this permission.",
+                    "NSLocationWhenInUseUsageDescription": "The guest app is requesting for this permission.",
+                    "NSMicrophoneUsageDescription": "The guest app is requesting for this permission.",
+                    "NSMotionUsageDescription": "The guest app is requesting for this permission.",
+                    "NSNearbyInteractionAllowOnceUsageDescription": "The guest app is requesting for this permission.",
+                    "NSNearbyInteractionUsageDescription": "The guest app is requesting for this permission.",
+                    "NSPhotoLibraryAddUsageDescription": "The guest app is requesting for this permission.",
+                    "NSPhotoLibraryUsageDescription": "The guest app is requesting for this permission.",
+                    "NSRemindersFullAccessUsageDescription": "The guest app is requesting for this permission.",
+                    "NSSensorKitUsageDescription": "The guest app is requesting for this permission.",
+                    "NSSiriUsageDescription": "The guest app is requesting for this permission.",
+                    "NSSpeechRecognitionUsageDescription": "The guest app is requesting for this permission.",
+                    "NSUserTrackingUsageDescription": "The guest app is requesting for this permission.",
+                    "SBAppUsesLocalNotifications": "The guest app is requesting for this permission.",
+                    "UIApplicationSceneManifest": "The guest app is requesting for this permission.",
+                    "NSHealthUpdateUsageDescription": "The guest app is requesting for this permission.",
+                    "NSHealthShareUsageDescription": "The guest app is requesting for this permission.",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription": "The guest app is requesting for this permission."
+                }
+            },
+            "versions": [
+                {
+                    "version": "3.6.59",
+                    "date": "2025-11-22",
+                    "localizedDescription": "This is a reminder that this is a third-party LiveContainer and SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you.\n\nDescription from SideStore 0.6.3-20251124.25+bedda8c:\nThis is release for:\n  - version: \"0.6.3-nightly.2025.11.24.25+bedda8c6\"\n  - revision: \"bedda8c\"\n  - timestamp: \"Mon Nov 24 21:18:25 2025\"\n\nRelease Notes:\n#### What's Changed\n- Merge pull request #1078 from CelloSerenity/csdev\n- Update error messages to reference iloader\n- Merge branch 'SideStore:develop' into csdev\n- Merge branch 'SideStore:develop' into csdev\n- Update README.md\n- Fix version numbering\n- Update OperationError.swift\n- Enhance error messages for UDID and SideJIT issues\n- Update error messages for clarity and detail\n\n#### Full Changelog: [606140a7...bedda8c6](https://github.com/SideStore/SideStore/compare/606140a7be508728dafafed9ea7bba1915c5de9d...bedda8c6a40bc2851ddd9d8cb798ec41e4d550e5)\n\nDescription from LiveContainer 3.6.59 (e06a1f1):\nundefined\n    ",
+                    "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
+                    "size": 4383580,
+                    "commit": "812cd17",
+                    "headline": "This is a reminder that this is a third-party LiveContainer and SideStore build",
+                    "releaseChannels": [
+                        {
+                            "releases": [
+                                {
+                                    "version": "3.6.59",
+                                    "date": "2025-11-22",
+                                    "localizedDescription": "This is a reminder that this is a third-party LiveContainer and SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you.\n\nDescription from SideStore 0.6.3-20251124.25+bedda8c:\nThis is release for:\n  - version: \"0.6.3-nightly.2025.11.24.25+bedda8c6\"\n  - revision: \"bedda8c\"\n  - timestamp: \"Mon Nov 24 21:18:25 2025\"\n\nRelease Notes:\n#### What's Changed\n- Merge pull request #1078 from CelloSerenity/csdev\n- Update error messages to reference iloader\n- Merge branch 'SideStore:develop' into csdev\n- Merge branch 'SideStore:develop' into csdev\n- Update README.md\n- Fix version numbering\n- Update OperationError.swift\n- Enhance error messages for UDID and SideJIT issues\n- Update error messages for clarity and detail\n\n#### Full Changelog: [606140a7...bedda8c6](https://github.com/SideStore/SideStore/compare/606140a7be508728dafafed9ea7bba1915c5de9d...bedda8c6a40bc2851ddd9d8cb798ec41e4d550e5)\n\nDescription from LiveContainer 3.6.59 (e06a1f1):\nundefined\n    ",
+                                    "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
+                                    "size": 4383580,
+                                    "sha256": "65291cd6076b8222295ce097d5aa7c5f82d9703af763d23531685b997b65df72"
+                                }
+                            ],
+                            "track": "nightly"
+                        }
+                    ]
+                }
+            ],
+            "commit": "812cd17",
+            "headline": "This is a reminder that this is a third-party LiveContainer and SideStore build",
+            "date": "2025-11-22",
+            "sha256": "65291cd6076b8222295ce097d5aa7c5f82d9703af763d23531685b997b65df72",
+            "permissions": [
+                {
+                    "type": "local-network",
+                    "usageDescription": "SideStore requires access to the local network to communicate with nearby devices."
+                },
+                {
+                    "type": "background-fetch",
+                    "usageDescription": "SideStore periodically refreshes apps in the background to prevent them from expiring."
+                },
+                {
+                    "type": "background-audio",
+                    "usageDescription": "Allows SideStore to run longer than 30 seconds when refreshing apps in background."
+                }
+            ]
+        }
+    ],
+    "news": [
+        {
+            "title": "Added More Sources!",
+            "identifier": "TrustedSource",
+            "caption": "Introducing PojavLauncher to SideStore!",
+            "tintColor": "912F8D",
+            "imageURL": "https://pbs.twimg.com/media/FjwYldzaYAAhqUS.jpg",
+            "url": "https://twitter.com/sidestore_io/status/1602182903450210305?s=46&t=_UKJO3_7BFa-fxf0F6jSHw",
+            "date": "2022-12-11",
+            "notify": true
+        },
+        {
+            "title": "#StandWithUkraine",
+            "identifier": "support-ukraine",
+            "caption": "Find out how you can help support those impacted by the Russian invasion.",
+            "tintColor": "003e80",
+            "imageURL": "https://user-images.githubusercontent.com/705880/156053447-a158cac7-df5f-4497-8025-15c3c2e10b48.png",
+            "url": "https://linktr.ee/razomforukraine",
+            "date": "2022-03-01",
+            "notify": false
+        },
+        {
+            "title": "SideStore 0.6.2",
+            "identifier": "update-062",
+            "caption": "A new version has released with new features and stability improvements!",
+            "tintColor": "A405FA",
+            "url": "https://github.com/SideStore/SideStore/releases/tag/0.6.2",
+            "date": "2025-06-30",
+            "notify": true
+        },
+        {
+            "title": "Welcome to SideStore!",
+            "identifier": "welcome",
+            "caption": "Check out the Documentation for more info",
+            "tintColor": "A405FA",
+            "url": "https://docs.sidestore.io",
+            "date": "2050-01-02",
+            "notify": false
+        },
+        {
+            "title": "Proceed with Caution!",
+            "identifier": "caution",
+            "caption": "SideStore is currently pre-release software. Expect bugs, and please report them",
+            "tintColor": "FF0F0F",
+            "url": "https://github.com/SideStore/SideStore/issues",
+            "date": "2050-01-01",
+            "notify": false
+        },
+        {
+            "appID": "com.kdt.livecontainer",
+            "caption": "Update of LiveContainer just got released!",
+            "date": "2024-08-15T08:24:55Z",
+            "identifier": "release-2.1.2",
+            "imageURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/release.png",
+            "notify": true,
+            "tintColor": "#0784FC",
+            "title": "2.1.2 - LiveContainer  15/08/24",
+            "url": "https://github.com/LiveContainer/LiveContainer/releases/tag/2.1.2"
+        },
+        {
+            "appID": "com.kdt.livecontainer",
+            "caption": "Update of LiveContainer just got released!",
+            "date": "2024-12-16T11:15:27Z",
+            "identifier": "release-3.0.0",
+            "imageURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/release.png",
+            "notify": true,
+            "tintColor": "#0784FC",
+            "title": "3.0.0 - LiveContainer  16/12/24",
+            "url": "https://github.com/LiveContainer/LiveContainer/releases/tag/3.0.0"
+        },
+        {
+            "appID": "com.kdt.livecontainer",
+            "caption": "Update of LiveContainer just got released!",
+            "date": "2024-12-16T12:38:30Z",
+            "identifier": "release-3.1.0",
+            "imageURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/release.png",
+            "notify": true,
+            "tintColor": "#0784FC",
+            "title": "3.1.0 - LiveContainer  16/12/24",
+            "url": "https://github.com/LiveContainer/LiveContainer/releases/tag/3.1.0"
+        },
+        {
+            "appID": "com.kdt.livecontainer",
+            "caption": "Update of LiveContainer just got released!",
+            "date": "2025-01-15T02:53:35Z",
+            "identifier": "release-3.2.0",
+            "imageURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/release.png",
+            "notify": true,
+            "tintColor": "#0784FC",
+            "title": "3.2.0 - LiveContainer  15/01/25",
+            "url": "https://github.com/LiveContainer/LiveContainer/releases/tag/3.2.0"
+        },
+        {
+            "appID": "com.kdt.livecontainer",
+            "caption": "Update of LiveContainer just got released!",
+            "date": "2025-03-14T04:28:26Z",
+            "identifier": "release-3.3.0",
+            "imageURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/release.png",
+            "notify": true,
+            "tintColor": "#0784FC",
+            "title": "3.3.0 - LiveContainer  14/03/25",
+            "url": "https://github.com/LiveContainer/LiveContainer/releases/tag/3.3.0"
+        },
+        {
+            "appID": "com.kdt.livecontainer",
+            "caption": "Update of LiveContainer just got released!",
+            "date": "2025-03-16T11:00:44Z",
+            "identifier": "release-3.3.1",
+            "imageURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/release.png",
+            "notify": true,
+            "tintColor": "#0784FC",
+            "title": "3.3.1 - LiveContainer  16/03/25",
+            "url": "https://github.com/LiveContainer/LiveContainer/releases/tag/3.3.1"
+        },
+        {
+            "appID": "com.kdt.livecontainer",
+            "caption": "Update of LiveContainer just got released!",
+            "date": "2025-04-20T10:41:31Z",
+            "identifier": "release-3.4.0",
+            "imageURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/release.png",
+            "notify": true,
+            "tintColor": "#0784FC",
+            "title": "3.4.0 - LiveContainer  20/04/25",
+            "url": "https://github.com/LiveContainer/LiveContainer/releases/tag/3.4.0"
+        },
+        {
+            "appID": "com.kdt.livecontainer",
+            "caption": "Update of LiveContainer just got released!",
+            "date": "2025-06-15T14:26:24Z",
+            "identifier": "release-3.5.0",
+            "imageURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/release.png",
+            "notify": true,
+            "tintColor": "#0784FC",
+            "title": "3.5.0 - LiveContainer  15/06/25",
+            "url": "https://github.com/LiveContainer/LiveContainer/releases/tag/3.5.0"
+        },
+        {
+            "appID": "com.kdt.livecontainer",
+            "caption": "Update of LiveContainer just got released!",
+            "date": "2025-06-16T06:26:06Z",
+            "identifier": "release-3.5.1",
+            "imageURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/release.png",
+            "notify": true,
+            "tintColor": "#0784FC",
+            "title": "3.5.1 - LiveContainer  16/06/25",
+            "url": "https://github.com/LiveContainer/LiveContainer/releases/tag/3.5.1"
+        },
+        {
+            "appID": "com.kdt.livecontainer",
+            "caption": "Update of LiveContainer just got released!",
+            "date": "2025-08-01T07:55:01Z",
+            "identifier": "release-3.6.0",
+            "imageURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/release.png",
+            "notify": true,
+            "tintColor": "#0784FC",
+            "title": "3.6.0 - LiveContainer  01/08/25",
+            "url": "https://github.com/LiveContainer/LiveContainer/releases/tag/3.6.0"
+        },
+        {
+            "appID": "com.kdt.livecontainer",
+            "caption": "Update of LiveContainer just got released!",
+            "date": "2025-08-19T04:15:32Z",
+            "identifier": "release-3.6.1",
+            "imageURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/release.png",
+            "notify": true,
+            "tintColor": "#0784FC",
+            "title": "3.6.1 - LiveContainer  19/08/25",
+            "url": "https://github.com/LiveContainer/LiveContainer/releases/tag/3.6.1"
+        }
+    ]
+}
