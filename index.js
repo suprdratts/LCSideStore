@@ -23,7 +23,7 @@ const { createHash } = require('node:crypto');
     var lcnJSON = JSON.parse(fs.readFileSync('./lcn.json', 'utf-8'));
     var lcnforkJSON = JSON.parse(fs.readFileSync('./lcnfork.json', 'utf-8'));
 
-    await fetch(lcnforkJSON['apps'][0]['downloadURL'])
+    await fetch(lcnforkJSON['apps'][0]['downloadURL'].replace('LiveContainer.ipa', 'LiveContainer+SideStore.ipa'))
     .then((res) => res.arrayBuffer())
     .then((data) => { 
         var hash = createHash('sha256').update(Buffer.from(data)).digest('hex'); 
