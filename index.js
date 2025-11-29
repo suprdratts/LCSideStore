@@ -5,18 +5,22 @@ fetch('https://sidestore.io/apps-v2.json/')
 .then((res) => res.text())
 .then((text) => fs.writeFileSync('./side.json', text, 'utf-8'))
 var sideJSON = JSON.parse(fs.readFileSync('./side.json', 'utf-8'));
+
 fetch('https://raw.githubusercontent.com/LiveContainer/LiveContainer/refs/heads/main/apps.json')
 .then((res) => res.text())
 .then((text) => fs.writeFileSync('./lc.json', text, 'utf-8'))
 var lcJSON = JSON.parse(fs.readFileSync('./lc.json', 'utf-8'));
+
 fetch('https://github.com/LiveContainer/LiveContainer/releases/download/nightly/apps_nightly.json')
 .then((res) => res.text())
 .then((text) => fs.writeFileSync('./lcn.json', text, 'utf-8'))
 var lcnJSON = JSON.parse(fs.readFileSync('./lcn.json', 'utf-8'));
+
 fetch('https://github.com/suprdratts/LiveContainer/releases/download/nightly/apps_nightly.json')
 .then((res) => res.text())
 .then((text) => fs.writeFileSync('./lcnfork.json', text, 'utf-8'))
 var lcnforkJSON = JSON.parse(fs.readFileSync('./lcnfork.json', 'utf-8'));
+
 fetch(lcnforkJSON['apps'][0]['downloadURL'])
 .then((res) => res.arrayBuffer())
 .then((data) => { 
@@ -78,6 +82,10 @@ ${lcnJSON['apps'][0]['versions'][0]['versionDescription']}
     srcJSON['news'] = sideJSON['news'];
     srcJSON['news'] = srcJSON['news'].concat(lcJSON['news']);
     srcJSON['news'] = srcJSON['news'].concat(lcnJSON['news']);
+
+    srcJSON['apps'][0]['downloadURL'] = srcJSON['apps'][0]['downloadURL'].replaceAll('LiveContainer.ipa', 'LiveContainer+SideStore.ipa');
+    srcJSON['apps'][0]['versions'][0]['downloadURL'] = srcJSON['apps'][0]['downloadURL'];
+    srcJSON['apps'][0]['versions'][0]['releaseChannels'][0]['releases'][0]['downloadURL'] = srcJSON['apps'][0]['downloadURL'];
     srcJSON['apps'][0]['versions'][0]['releaseChannels'][0]['track'] = 'nightly';
     fs.writeFileSync('./src.json', JSON.stringify(srcJSON, null, 4), 'utf-8')
 })
