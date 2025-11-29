@@ -15,14 +15,14 @@
             "developerName": "LiveContainer Team + SideStore Team",
             "subtitle": "Run iOS apps without actually installing them!",
             "version": "3.6.59",
-            "versionDate": "2025-11-28",
+            "versionDate": "2025-11-29",
             "versionDescription": "This is a reminder that this is a third-party LiveContainer and SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you.\n\nDescription from SideStore 0.6.3-20251124.25+bedda8c:\nThis is release for:\n  - version: \"0.6.3-nightly.2025.11.24.25+bedda8c6\"\n  - revision: \"bedda8c\"\n  - timestamp: \"Mon Nov 24 21:18:25 2025\"\n\nRelease Notes:\n#### What's Changed\n- Merge pull request #1078 from CelloSerenity/csdev\n- Update error messages to reference iloader\n- Merge branch 'SideStore:develop' into csdev\n- Merge branch 'SideStore:develop' into csdev\n- Update README.md\n- Fix version numbering\n- Update OperationError.swift\n- Enhance error messages for UDID and SideJIT issues\n- Update error messages for clarity and detail\n\n#### Full Changelog: [606140a7...bedda8c6](https://github.com/SideStore/SideStore/compare/606140a7be508728dafafed9ea7bba1915c5de9d...bedda8c6a40bc2851ddd9d8cb798ec41e4d550e5)\n\nDescription from LiveContainer 3.6.59 (e06a1f1):\nundefined",
             "downloadURL": "https://github.com/suprdratts/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
             "localizedDescription": "Run iOS apps without actually installing them!",
             "iconURL": "https://raw.githubusercontent.com/suprdratts/LiveContainer/main/screenshots/AppIcon1024.png",
             "tintColor": "#0784FC",
             "category": "utilities",
-            "size": 4383572,
+            "size": 4383561,
             "screenshotURLs": [
                 "https://raw.githubusercontent.com/suprdratts/LiveContainer/main/screenshots/1.png",
                 "https://sidestore.io/apps-v2.json/apps/sidestore/browse-dark.png",
@@ -111,10 +111,10 @@
             "versions": [
                 {
                     "version": "3.6.59",
-                    "date": "2025-11-28",
+                    "date": "2025-11-29",
                     "localizedDescription": "This is a reminder that this is a third-party LiveContainer and SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you.\n\nDescription from SideStore 0.6.3-20251124.25+bedda8c:\nThis is release for:\n  - version: \"0.6.3-nightly.2025.11.24.25+bedda8c6\"\n  - revision: \"bedda8c\"\n  - timestamp: \"Mon Nov 24 21:18:25 2025\"\n\nRelease Notes:\n#### What's Changed\n- Merge pull request #1078 from CelloSerenity/csdev\n- Update error messages to reference iloader\n- Merge branch 'SideStore:develop' into csdev\n- Merge branch 'SideStore:develop' into csdev\n- Update README.md\n- Fix version numbering\n- Update OperationError.swift\n- Enhance error messages for UDID and SideJIT issues\n- Update error messages for clarity and detail\n\n#### Full Changelog: [606140a7...bedda8c6](https://github.com/SideStore/SideStore/compare/606140a7be508728dafafed9ea7bba1915c5de9d...bedda8c6a40bc2851ddd9d8cb798ec41e4d550e5)\n\nDescription from LiveContainer 3.6.59 (e06a1f1):\nundefined",
                     "downloadURL": "https://github.com/suprdratts/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
-                    "size": 4383572,
+                    "size": 4383561,
                     "commit": "fc71027",
                     "headline": "This is a reminder that this is a third-party LiveContainer and SideStore build",
                     "releaseChannels": [
@@ -122,11 +122,11 @@
                             "releases": [
                                 {
                                     "version": "3.6.59",
-                                    "date": "2025-11-28",
+                                    "date": "2025-11-29",
                                     "localizedDescription": "This is a reminder that this is a third-party LiveContainer and SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you.\n\nDescription from SideStore 0.6.3-20251124.25+bedda8c:\nThis is release for:\n  - version: \"0.6.3-nightly.2025.11.24.25+bedda8c6\"\n  - revision: \"bedda8c\"\n  - timestamp: \"Mon Nov 24 21:18:25 2025\"\n\nRelease Notes:\n#### What's Changed\n- Merge pull request #1078 from CelloSerenity/csdev\n- Update error messages to reference iloader\n- Merge branch 'SideStore:develop' into csdev\n- Merge branch 'SideStore:develop' into csdev\n- Update README.md\n- Fix version numbering\n- Update OperationError.swift\n- Enhance error messages for UDID and SideJIT issues\n- Update error messages for clarity and detail\n\n#### Full Changelog: [606140a7...bedda8c6](https://github.com/SideStore/SideStore/compare/606140a7be508728dafafed9ea7bba1915c5de9d...bedda8c6a40bc2851ddd9d8cb798ec41e4d550e5)\n\nDescription from LiveContainer 3.6.59 (e06a1f1):\nundefined",
                                     "downloadURL": "https://github.com/suprdratts/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
-                                    "size": 4383572,
-                                    "sha256": "1d169334dabe2f1e1802a4f2f995a1d1187b7561ea1bbb2ec7d70b8496652147"
+                                    "size": 4383561,
+                                    "sha256": "26f922f38cb6e490d3c685274317cc4d62f9c0dc009049f0678822330e386f72"
                                 }
                             ],
                             "track": "nightly"
@@ -136,8 +136,8 @@
             ],
             "commit": "fc71027",
             "headline": "This is a reminder that this is a third-party LiveContainer and SideStore build",
-            "date": "2025-11-28",
-            "sha256": "1d169334dabe2f1e1802a4f2f995a1d1187b7561ea1bbb2ec7d70b8496652147",
+            "date": "2025-11-29",
+            "sha256": "26f922f38cb6e490d3c685274317cc4d62f9c0dc009049f0678822330e386f72",
             "permissions": [
                 {
                     "type": "local-network",
