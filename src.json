@@ -126,7 +126,7 @@
                                     "localizedDescription": "This is a reminder that this is a third-party LiveContainer and SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you.\n\nDescription from SideStore 0.6.3-20251207.25+4f8a70d:\nThis is release for:\n  - version: \"0.6.3-nightly.2025.12.07.25+4f8a70d3\"\n  - revision: \"4f8a70d\"\n  - timestamp: \"Sun Dec  7 00:07:12 2025\"\n\nRelease Notes:\n#### What's Changed\n- LocalDevVPN (#1126)\n\n#### Full Changelog: [bedda8c6...4f8a70d3](https://github.com/SideStore/SideStore/compare/bedda8c6a40bc2851ddd9d8cb798ec41e4d550e5...4f8a70d31e661467dc0f1df1a4fc236d220a0bd2)\n\nDescription from LiveContainer 3.6.59 (e06a1f1):\nundefined",
                                     "downloadURL": "https://github.com/suprdratts/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
                                     "size": 4383561,
-                                    "sha256": "26f922f38cb6e490d3c685274317cc4d62f9c0dc009049f0678822330e386f72"
+                                    "sha256": "3590bcb90a75c32ba8b10d692d26838caedbc267a57db23931694abc9598c873"
                                 }
                             ],
                             "track": "nightly"
@@ -137,7 +137,7 @@
             "commit": "fc71027",
             "headline": "This is a reminder that this is a third-party LiveContainer and SideStore build",
             "date": "2025-11-29",
-            "sha256": "26f922f38cb6e490d3c685274317cc4d62f9c0dc009049f0678822330e386f72",
+            "sha256": "3590bcb90a75c32ba8b10d692d26838caedbc267a57db23931694abc9598c873",
             "permissions": [
                 {
                     "type": "local-network",
