@@ -8,7 +8,7 @@ Disclaimer that while I am a member of the SideStore team, this is a **third-par
 - Allows you to "install" unlimited apps (3 app/10 app id free developer account limit does not apply here) with only one app & app id. You can also have multiple versions of an app installed with multiple data containers.
 - When JIT is available, codesign is entirely bypassed, no need to sign your apps before installing. Otherwise, your app will be signed with the same certificate used by LiveContainer.
 
-Learn more about LiveContainer [here](https://livecontainer.github.io/docs/intro).
+Learn more about LiveContainer [here](https://livecontainer.github.io/docs/intro). *View the modified source code [here](https://github.com/suprdratts/LiveContainer).*
 
 ## SideStore
 SideStore is an *untethered, community driven* alternative app store for non-jailbroken iOS devices.
@@ -17,7 +17,7 @@ SideStore is an iOS application that allows you to sideload apps onto your iOS d
 
 SideStore's goal is to provide an untethered sideloading experience. It's a community driven fork of [AltStore](https://github.com/rileytestut/AltStore), and has already implemented some of the community's most-requested features.
 
-Learn more about SideStore [here](https://sidestore.io/).
+Learn more about SideStore [here](https://sidestore.io/). *View the modified source code [here](https://github.com/suprdratts/SideStore).*
 
 ## Licenses
 * SideStore and LiveContainer are both licensed under [GNU Affero General Public License, version 3 only](./LICENSE.AGPL).
