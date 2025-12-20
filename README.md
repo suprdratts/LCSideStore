@@ -20,6 +20,5 @@ SideStore's goal is to provide an untethered sideloading experience. It's a comm
 Learn more about SideStore [here](https://sidestore.io/).
 
 ## Licenses
-* LiveContainer is licensed under [Apache License 2.0](./LICENSE.APACHE). 
-* SideStore is licensed under [GNU Affero General Public License, version 3 only](./LICENSE.AGPL).
+* SideStore and LiveContainer are both licensed under [GNU Affero General Public License, version 3 only](./LICENSE.AGPL).
 * The code original to this repository is licensed under [the Unlicense](./UNLICENSE).
