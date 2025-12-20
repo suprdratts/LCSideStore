@@ -52,7 +52,7 @@ Description from SideStore ${sideJSON['apps'][0]['releaseChannels'][0]['releases
 ${sideJSON['apps'][0]['releaseChannels'][0]['releases'][0]['localizedDescription']}
 
 Description from LiveContainer ${lcnJSON['apps'][0]['version']} (${lcnJSON['apps'][0]['commit']}):
-${lcnJSON['apps'][0]['versions'][0]['versionDescription']}`
+${lcnJSON['apps'][0]['versions'][0]['localizedDescription']}`
         srcJSON['apps'][0]['versions'][0]['localizedDescription'] = srcJSON['apps'][0]['versionDescription']
 
         srcJSON['apps'][0]['versions'][0]['releaseChannels'] = []
