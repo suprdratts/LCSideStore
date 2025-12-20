@@ -4,7 +4,6 @@ on:
     paths-ignore:
       - 'README.md'
       - 'LICENSE.AGPL'
-      - 'LICENSE.APACHE'
       - 'UNLICENSE'
       - 'LICENSE'
     branches: [ "main" ]
