@@ -1,7 +1,9 @@
 # LiveContainer + SideStore repository
 This is an unofficial AltSource that allows you to use the latest LiveContainer nightly with the latest SideStore nightly.
 
-Disclaimer that while I am a member of the SideStore team, this is a **third-party** LiveContainer *and* SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you. I make these builds for myself and myself only.
+Disclaimer that while I am a member of the SideStore team, this is a **third-party** LiveContainer *and* SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you. I make these builds for myself and myself only, but offer them publicly in hopes they will be useful.
+
+Add the source [here](https://celloserenity.github.io/altdirect/?url=https://raw.githubusercontent.com/suprdratts/LCSideStore/refs/heads/main/src.json&exclude=livecontainer).
 
 ## LiveContainer
 - LiveContainer is an app launcher (not emulator or hypervisor) that allows you to run iOS apps inside it without actually installing them.
