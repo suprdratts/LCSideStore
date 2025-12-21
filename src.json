@@ -16,13 +16,13 @@
             "subtitle": "Run iOS apps without actually installing them!",
             "version": "3.6.60",
             "versionDate": "2025-12-20",
-            "versionDescription": "This is a reminder that this is a third-party LiveContainer and SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you.\n\nDescription from SideStore 0.6.3-20251218.25+decf21f:\nThis is release for:\n  - version: \"0.6.3-nightly.2025.12.18.25+decf21f1\"\n  - revision: \"decf21f\"\n  - timestamp: \"Thu Dec 18 04:29:20 2025\"\n\nRelease Notes:\n#### What's Changed\n- Update trusted apps identifiers and source URLs\n\n#### Full Changelog: [b2f42160...decf21f1](https://github.com/SideStore/SideStore/compare/b2f42160f9fe2462d5ae694064b0d628442760c8...decf21f177392476fabb01c47ac3395a4bcbb2ae)\n\nDescription from LiveContainer 3.6.60 (be01fd3):\nNightly build from [be01fd3](https://github.com/LiveContainer/LiveContainer/commit/be01fd3): bump version\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/20388775018/attempts/1).\n",
+            "versionDescription": "This is a reminder that this is a third-party LiveContainer and SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you.\n\nDescription from SideStore 0.6.3-20251218.25+decf21f:\nThis is release for:\n  - version: \"0.6.3-nightly.2025.12.18.25+decf21f1\"\n  - revision: \"decf21f\"\n  - timestamp: \"Thu Dec 18 04:29:20 2025\"\n\nRelease Notes:\n#### What's Changed\n- Update trusted apps identifiers and source URLs\n\n#### Full Changelog: [b2f42160...decf21f1](https://github.com/SideStore/SideStore/compare/b2f42160f9fe2462d5ae694064b0d628442760c8...decf21f177392476fabb01c47ac3395a4bcbb2ae)\n\nDescription from LiveContainer 3.6.60 (14c370b):\nNightly build from [14c370b](https://github.com/LiveContainer/LiveContainer/commit/14c370b): Fix 1047\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/20401832822/attempts/1).\n",
             "downloadURL": "https://github.com/suprdratts/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
             "localizedDescription": "Run iOS apps without actually installing them!",
             "iconURL": "https://raw.githubusercontent.com/suprdratts/LiveContainer/main/screenshots/AppIcon1024.png",
             "tintColor": "#0784FC",
             "category": "utilities",
-            "size": 4387409,
+            "size": 4387402,
             "screenshotURLs": [
                 "https://raw.githubusercontent.com/suprdratts/LiveContainer/main/screenshots/1.png",
                 "https://sidestore.io/apps-v2.json/apps/sidestore/browse-dark.png",
@@ -112,10 +112,10 @@
                 {
                     "version": "3.6.60",
                     "date": "2025-12-20",
-                    "localizedDescription": "This is a reminder that this is a third-party LiveContainer and SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you.\n\nDescription from SideStore 0.6.3-20251218.25+decf21f:\nThis is release for:\n  - version: \"0.6.3-nightly.2025.12.18.25+decf21f1\"\n  - revision: \"decf21f\"\n  - timestamp: \"Thu Dec 18 04:29:20 2025\"\n\nRelease Notes:\n#### What's Changed\n- Update trusted apps identifiers and source URLs\n\n#### Full Changelog: [b2f42160...decf21f1](https://github.com/SideStore/SideStore/compare/b2f42160f9fe2462d5ae694064b0d628442760c8...decf21f177392476fabb01c47ac3395a4bcbb2ae)\n\nDescription from LiveContainer 3.6.60 (be01fd3):\nNightly build from [be01fd3](https://github.com/LiveContainer/LiveContainer/commit/be01fd3): bump version\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/20388775018/attempts/1).\n",
+                    "localizedDescription": "This is a reminder that this is a third-party LiveContainer and SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you.\n\nDescription from SideStore 0.6.3-20251218.25+decf21f:\nThis is release for:\n  - version: \"0.6.3-nightly.2025.12.18.25+decf21f1\"\n  - revision: \"decf21f\"\n  - timestamp: \"Thu Dec 18 04:29:20 2025\"\n\nRelease Notes:\n#### What's Changed\n- Update trusted apps identifiers and source URLs\n\n#### Full Changelog: [b2f42160...decf21f1](https://github.com/SideStore/SideStore/compare/b2f42160f9fe2462d5ae694064b0d628442760c8...decf21f177392476fabb01c47ac3395a4bcbb2ae)\n\nDescription from LiveContainer 3.6.60 (14c370b):\nNightly build from [14c370b](https://github.com/LiveContainer/LiveContainer/commit/14c370b): Fix 1047\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/20401832822/attempts/1).\n",
                     "downloadURL": "https://github.com/suprdratts/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
-                    "size": 4387409,
-                    "commit": "69b3f84",
+                    "size": 4387402,
+                    "commit": "3b17b05",
                     "headline": "This is a reminder that this is a third-party LiveContainer and SideStore build",
                     "releaseChannels": [
                         {
@@ -123,10 +123,10 @@
                                 {
                                     "version": "3.6.60",
                                     "date": "2025-12-20",
-                                    "localizedDescription": "This is a reminder that this is a third-party LiveContainer and SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you.\n\nDescription from SideStore 0.6.3-20251218.25+decf21f:\nThis is release for:\n  - version: \"0.6.3-nightly.2025.12.18.25+decf21f1\"\n  - revision: \"decf21f\"\n  - timestamp: \"Thu Dec 18 04:29:20 2025\"\n\nRelease Notes:\n#### What's Changed\n- Update trusted apps identifiers and source URLs\n\n#### Full Changelog: [b2f42160...decf21f1](https://github.com/SideStore/SideStore/compare/b2f42160f9fe2462d5ae694064b0d628442760c8...decf21f177392476fabb01c47ac3395a4bcbb2ae)\n\nDescription from LiveContainer 3.6.60 (be01fd3):\nNightly build from [be01fd3](https://github.com/LiveContainer/LiveContainer/commit/be01fd3): bump version\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/20388775018/attempts/1).\n",
+                                    "localizedDescription": "This is a reminder that this is a third-party LiveContainer and SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you.\n\nDescription from SideStore 0.6.3-20251218.25+decf21f:\nThis is release for:\n  - version: \"0.6.3-nightly.2025.12.18.25+decf21f1\"\n  - revision: \"decf21f\"\n  - timestamp: \"Thu Dec 18 04:29:20 2025\"\n\nRelease Notes:\n#### What's Changed\n- Update trusted apps identifiers and source URLs\n\n#### Full Changelog: [b2f42160...decf21f1](https://github.com/SideStore/SideStore/compare/b2f42160f9fe2462d5ae694064b0d628442760c8...decf21f177392476fabb01c47ac3395a4bcbb2ae)\n\nDescription from LiveContainer 3.6.60 (14c370b):\nNightly build from [14c370b](https://github.com/LiveContainer/LiveContainer/commit/14c370b): Fix 1047\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/20401832822/attempts/1).\n",
                                     "downloadURL": "https://github.com/suprdratts/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
-                                    "size": 4387409,
-                                    "sha256": "0f48c97926b2500d1e7b27542ea82b5c1d1a275839a2b81cbf155f8473b69017"
+                                    "size": 4387402,
+                                    "sha256": "816df81a6e41e2ddc3cc1c25ba9e3a0815dabe79e084edf0b7f7d4f9b8c799de"
                                 }
                             ],
                             "track": "nightly"
@@ -134,10 +134,10 @@
                     ]
                 }
             ],
-            "commit": "69b3f84",
+            "commit": "3b17b05",
             "headline": "This is a reminder that this is a third-party LiveContainer and SideStore build",
             "date": "2025-12-20",
-            "sha256": "0f48c97926b2500d1e7b27542ea82b5c1d1a275839a2b81cbf155f8473b69017",
+            "sha256": "816df81a6e41e2ddc3cc1c25ba9e3a0815dabe79e084edf0b7f7d4f9b8c799de",
             "permissions": [
                 {
                     "type": "local-network",
