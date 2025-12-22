@@ -153,7 +153,7 @@ ${lcnJSON['apps'][0]['versions'][0]['localizedDescription']}`
         srcJSON['apps'][0]['versionDescription'] = `This is a reminder that this is a third-party LiveContainer and SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you.
 
 Description from SideStore ${sideJSON['apps'][0]['versions'][0]['version']}:
-${sideJSON['apps'][0]['releases'][0]['localizedDescription']}
+${sideJSON['apps'][0]['versions'][0]['localizedDescription']}
 
 Description from LiveContainer ${lcJSON['apps'][0]['version']}:
 ${lcJSON['apps'][0]['versions'][0]['localizedDescription']}`
