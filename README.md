@@ -1,9 +1,13 @@
 # LiveContainer + SideStore repository
-This is an unofficial AltSource that allows you to use the latest LiveContainer nightly with the latest SideStore nightly.
+This is an unofficial AltSource for LiveContainer + SideStore.
 
-Disclaimer that while I am a member of the SideStore team, this is a **third-party** LiveContainer *and* SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you. I make these builds for myself and myself only, but offer them publicly in hopes they will be useful.
+Disclaimer that while I am a member of the SideStore team, `src.json` and `stable.json` offer **third-party** LiveContainer *and* SideStore builds. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you.
 
-Add the source [here](https://celloserenity.github.io/altdirect/?url=https://raw.githubusercontent.com/suprdratts/LCSideStore/refs/heads/main/src.json&exclude=livecontainer).
+There are a few different sources available:
+* [`src.json`](https://celloserenity.github.io/altdirect/?url=https://raw.githubusercontent.com/suprdratts/LCSideStore/refs/heads/main/src.json&exclude=livecontainer) offers the latest LiveContainer + SideStore nightly, modified to have latest SideStore nightly with LiveContainer changes (+ my own change to get rid of the official SideStore source and replace it with this source)
+* [`official_nightly.json`](https://celloserenity.github.io/altdirect/?url=https://raw.githubusercontent.com/suprdratts/LCSideStore/refs/heads/main/official_nightly.json&exclude=livecontainer) offers the latest LiveContainer + SideStore nightly, with no modifications (so it still uses the out-of-date SideStore nightly)
+* [`stable.json`](https://celloserenity.github.io/altdirect/?url=https://raw.githubusercontent.com/suprdratts/LCSideStore/refs/heads/main/stable.json&exclude=livecontainer) offers the latest LiveConainer + SideStore stable, modified to have latest SideStore stable with LiveContainer changes (no additional changes)
+* [`official_stable.json`](https://celloserenity.github.io/altdirect/?url=https://raw.githubusercontent.com/suprdratts/LCSideStore/refs/heads/main/official_stable.json&exclude=livecontainer) offers the latest LiveContainer + SideStore stable, with no modifications (this means it still uses SideStore nightly)
 
 ## LiveContainer
 - LiveContainer is an app launcher (not emulator or hypervisor) that allows you to run iOS apps inside it without actually installing them.
