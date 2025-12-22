@@ -187,7 +187,7 @@ ${lcJSON['apps'][0]['versions'][0]['localizedDescription']}`
         srcJSON['news'] = sideJSON['news'];
         srcJSON['news'] = srcJSON['news'].concat(lcJSON['news']);
 
-        srcJSON['apps'][0]['downloadURL'] = srcJSON['apps'][0]['downloadURL'].replaceAll('LiveContainer.ipa', 'LiveContainer+SideStore.ipa');
+        srcJSON['apps'][0]['downloadURL'] = 'https://github.com/suprdratts/LiveContainer/releases/download/stable/LiveContainer+SideStore.ipa';
         srcJSON['apps'][0]['versions'][0]['downloadURL'] = srcJSON['apps'][0]['downloadURL'];
         srcJSON['apps'][0]['versions'][0]['releaseChannels'][0]['releases'][0]['downloadURL'] = srcJSON['apps'][0]['downloadURL'];
         srcJSON['apps'][0]['versions'][0]['releaseChannels'][0]['track'] = 'nightly';
