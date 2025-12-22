@@ -1,5 +1,5 @@
 {
-    "name": "LiveContainer + SideStore (nightly)",
+    "name": "LiveContainer + SideStore (unofficial nightly)",
     "identifier": "com.SideStore.SideStore",
     "website": "https://github.com/suprdratts/LCSideStore",
     "subtitle": "LiveContainer + SideStore",
@@ -10,7 +10,7 @@
     "apps": [
         {
             "beta": false,
-            "name": "LiveContainer + SideStore (nightly)",
+            "name": "LiveContainer + SideStore (unofficial nightly)",
             "bundleIdentifier": "com.kdt.livecontainer",
             "developerName": "LiveContainer Team + SideStore Team",
             "subtitle": "Run iOS apps without actually installing them!",
