@@ -194,7 +194,7 @@ ${lcJSON['apps'][0]['versions'][0]['localizedDescription']}`
         fs.writeFileSync('./stable.json', JSON.stringify(srcJSON, null, 4), 'utf-8')
     })
 
-    await fetch(lcnJSON['apps'][0]['downloadURL'].replace('LiveContainer.ipa', 'LiveContainer+SideStore.ipa'))
+    await fetch(lcJSON['apps'][0]['downloadURL'].replace('LiveContainer.ipa', 'LiveContainer+SideStore.ipa'))
     .then((res) => res.arrayBuffer())
     .then((data) => { 
         var hash = createHash('sha256').update(Buffer.from(data)).digest('hex'); 
