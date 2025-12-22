@@ -1,0 +1,237 @@
+{
+    "name": "LiveContainer + SideStore (nightly)",
+    "identifier": "com.livecontainer.source.nightly",
+    "website": "https://github.com/suprdratts/LCSideStore",
+    "subtitle": "LiveContainer + SideStore",
+    "description": "This is an unofficial AltStore Source for LiveContainer + SideStore (nightly).\n\n Run iOS apps without actually installing them!",
+    "tintColor": "#0784FC",
+    "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
+    "headerURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/header.png",
+    "apps": [
+        {
+            "beta": false,
+            "name": "LiveContainer + SideStore (nightly)",
+            "bundleIdentifier": "com.kdt.livecontainer",
+            "developerName": "LiveContainer Team + SideStore Team",
+            "subtitle": "Run iOS apps without actually installing them!",
+            "version": "3.6.60",
+            "versionDate": "2025-12-20",
+            "versionDescription": "Nightly build from [14c370b](https://github.com/LiveContainer/LiveContainer/commit/14c370b): Fix 1047\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/20401832822/attempts/1).\n",
+            "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
+            "localizedDescription": "Run iOS apps without actually installing them!",
+            "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
+            "tintColor": "#0784FC",
+            "category": "utilities",
+            "size": 4387262,
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/1.png",
+                "https://sidestore.io/apps-v2.json/apps/sidestore/browse-dark.png",
+                "https://sidestore.io/apps-v2.json/apps/sidestore/apps-dark.png",
+                "https://sidestore.io/apps-v2.json/apps/sidestore/news-dark.png",
+                "https://sidestore.io/apps-v2.json/apps/sidestore/browse-light.png",
+                "https://sidestore.io/apps-v2.json/apps/sidestore/apps-light.png",
+                "https://sidestore.io/apps-v2.json/apps/sidestore/news-light.png"
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    {
+                        "name": "application-identifier"
+                    },
+                    {
+                        "name": "com.apple.security.application-groups"
+                    },
+                    {
+                        "name": "get-task-allow"
+                    },
+                    {
+                        "name": "keychain-access-groups"
+                    },
+                    {
+                        "name": "com.apple.developer.kernel.extended-virtual-addressing"
+                    },
+                    {
+                        "name": "com.apple.developer.kernel.increased-memory-limit"
+                    },
+                    {
+                        "name": "com.apple.developer.healthkit.background-delivery"
+                    },
+                    {
+                        "name": "com.apple.developer.healthkit"
+                    },
+                    {
+                        "name": "com.apple.developer.healthkit.access"
+                    },
+                    {
+                        "name": "aps-environment"
+                    },
+                    {
+                        "name": "com.apple.developer.siri"
+                    }
+                ],
+                "privacy": {
+                    "LSRequiresIPhoneOS": "The guest app is requesting for this permission.",
+                    "NFCReaderUsageDescription": "The guest app is requesting for this permission.",
+                    "NSAppleMusicUsageDescription": "The guest app is requesting for this permission.",
+                    "NSBluetoothAlwaysUsageDescription": "The guest app is requesting for this permission.",
+                    "NSBluetoothPeripheralUsageDescription": "The guest app is requesting for this permission.",
+                    "NSCalendarsFullAccessUsageDescription": "The guest app is requesting for this permission.",
+                    "NSCalendarsWriteOnlyAccessUsageDescription": "The guest app is requesting for this permission.",
+                    "NSCameraUsageDescription": "The guest app is requesting for this permission.",
+                    "NSContactsUsageDescription": "The guest app is requesting for this permission.",
+                    "NSFaceIDUsageDescription": "The guest app is requesting for this permission.",
+                    "NSFallDetectionUsageDescription": "The guest app is requesting for this permission.",
+                    "NSGKFriendListUsageDescription": "The guest app is requesting for this permission.",
+                    "NSHealthClinicalHealthRecordsShareUsageDescription": "The guest app is requesting for this permission.",
+                    "NSHealthRequiredReadAuthorizationTypeIdentifiers": "The guest app is requesting for this permission.",
+                    "NSHomeKitUsageDescription": "The guest app is requesting for this permission.",
+                    "NSIdentityUsageDescription": "The guest app is requesting for this permission.",
+                    "NSLocalNetworkUsageDescription": "The guest app is requesting for this permission.",
+                    "NSLocationDefaultAccuracyReduced": "The guest app is requesting for this permission.",
+                    "NSLocationTemporaryUsageDescriptionDictionary": "The guest app is requesting for this permission.",
+                    "NSLocationUsageDescription": "The guest app is requesting for this permission.",
+                    "NSLocationWhenInUseUsageDescription": "The guest app is requesting for this permission.",
+                    "NSMicrophoneUsageDescription": "The guest app is requesting for this permission.",
+                    "NSMotionUsageDescription": "The guest app is requesting for this permission.",
+                    "NSNearbyInteractionAllowOnceUsageDescription": "The guest app is requesting for this permission.",
+                    "NSNearbyInteractionUsageDescription": "The guest app is requesting for this permission.",
+                    "NSPhotoLibraryAddUsageDescription": "The guest app is requesting for this permission.",
+                    "NSPhotoLibraryUsageDescription": "The guest app is requesting for this permission.",
+                    "NSRemindersFullAccessUsageDescription": "The guest app is requesting for this permission.",
+                    "NSSensorKitUsageDescription": "The guest app is requesting for this permission.",
+                    "NSSiriUsageDescription": "The guest app is requesting for this permission.",
+                    "NSSpeechRecognitionUsageDescription": "The guest app is requesting for this permission.",
+                    "NSUserTrackingUsageDescription": "The guest app is requesting for this permission.",
+                    "SBAppUsesLocalNotifications": "The guest app is requesting for this permission.",
+                    "UIApplicationSceneManifest": "The guest app is requesting for this permission.",
+                    "NSHealthUpdateUsageDescription": "The guest app is requesting for this permission.",
+                    "NSHealthShareUsageDescription": "The guest app is requesting for this permission.",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription": "The guest app is requesting for this permission."
+                }
+            },
+            "versions": [
+                {
+                    "version": "3.6.60",
+                    "date": "2025-12-20",
+                    "localizedDescription": "Nightly build from [14c370b](https://github.com/LiveContainer/LiveContainer/commit/14c370b): Fix 1047\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/20401832822/attempts/1).\n",
+                    "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
+                    "size": 4387262,
+                    "commit": "14c370b",
+                    "headline": "Fix #1047"
+                }
+            ],
+            "commit": "14c370b",
+            "headline": "Fix #1047",
+            "sha256": "0c70cca7912f50b975e22c2481f74f292adf81f7ccc33b2ab64c11ac067b2cc7",
+            "permissions": [
+                {
+                    "type": "local-network",
+                    "usageDescription": "SideStore requires access to the local network to communicate with nearby devices."
+                },
+                {
+                    "type": "background-fetch",
+                    "usageDescription": "SideStore periodically refreshes apps in the background to prevent them from expiring."
+                },
+                {
+                    "type": "background-audio",
+                    "usageDescription": "Allows SideStore to run longer than 30 seconds when refreshing apps in background."
+                }
+            ]
+        }
+    ],
+    "news": [
+        {
+            "title": "Added More Sources!",
+            "identifier": "TrustedSource",
+            "caption": "Introducing PojavLauncher to SideStore!",
+            "tintColor": "912F8D",
+            "imageURL": "https://pbs.twimg.com/media/FjwYldzaYAAhqUS.jpg",
+            "url": "https://twitter.com/sidestore_io/status/1602182903450210305?s=46&t=_UKJO3_7BFa-fxf0F6jSHw",
+            "date": "2022-12-11",
+            "notify": true
+        },
+        {
+            "title": "#StandWithUkraine",
+            "identifier": "support-ukraine",
+            "caption": "Find out how you can help support those impacted by the Russian invasion.",
+            "tintColor": "003e80",
+            "imageURL": "https://user-images.githubusercontent.com/705880/156053447-a158cac7-df5f-4497-8025-15c3c2e10b48.png",
+            "url": "https://linktr.ee/razomforukraine",
+            "date": "2022-03-01",
+            "notify": false
+        },
+        {
+            "title": "SideStore 0.6.2",
+            "identifier": "update-062",
+            "caption": "A new version has released with new features and stability improvements!",
+            "tintColor": "A405FA",
+            "url": "https://github.com/SideStore/SideStore/releases/tag/0.6.2",
+            "date": "2025-06-30",
+            "notify": true
+        },
+        {
+            "title": "Welcome to SideStore!",
+            "identifier": "welcome",
+            "caption": "Check out the Documentation for more info",
+            "tintColor": "A405FA",
+            "url": "https://docs.sidestore.io",
+            "date": "2050-01-02",
+            "notify": false
+        },
+        {
+            "title": "Proceed with Caution!",
+            "identifier": "caution",
+            "caption": "SideStore is currently pre-release software. Expect bugs, and please report them",
+            "tintColor": "FF0F0F",
+            "url": "https://github.com/SideStore/SideStore/issues",
+            "date": "2050-01-01",
+            "notify": false
+        },
+        {
+            "title": "Added More Sources!",
+            "identifier": "TrustedSource",
+            "caption": "Introducing PojavLauncher to SideStore!",
+            "tintColor": "912F8D",
+            "imageURL": "https://pbs.twimg.com/media/FjwYldzaYAAhqUS.jpg",
+            "url": "https://twitter.com/sidestore_io/status/1602182903450210305?s=46&t=_UKJO3_7BFa-fxf0F6jSHw",
+            "date": "2022-12-11",
+            "notify": true
+        },
+        {
+            "title": "#StandWithUkraine",
+            "identifier": "support-ukraine",
+            "caption": "Find out how you can help support those impacted by the Russian invasion.",
+            "tintColor": "003e80",
+            "imageURL": "https://user-images.githubusercontent.com/705880/156053447-a158cac7-df5f-4497-8025-15c3c2e10b48.png",
+            "url": "https://linktr.ee/razomforukraine",
+            "date": "2022-03-01",
+            "notify": false
+        },
+        {
+            "title": "SideStore 0.6.2",
+            "identifier": "update-062",
+            "caption": "A new version has released with new features and stability improvements!",
+            "tintColor": "A405FA",
+            "url": "https://github.com/SideStore/SideStore/releases/tag/0.6.2",
+            "date": "2025-06-30",
+            "notify": true
+        },
+        {
+            "title": "Welcome to SideStore!",
+            "identifier": "welcome",
+            "caption": "Check out the Documentation for more info",
+            "tintColor": "A405FA",
+            "url": "https://docs.sidestore.io",
+            "date": "2050-01-02",
+            "notify": false
+        },
+        {
+            "title": "Proceed with Caution!",
+            "identifier": "caution",
+            "caption": "SideStore is currently pre-release software. Expect bugs, and please report them",
+            "tintColor": "FF0F0F",
+            "url": "https://github.com/SideStore/SideStore/issues",
+            "date": "2050-01-01",
+            "notify": false
+        }
+    ]
+}
