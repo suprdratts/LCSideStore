@@ -31,8 +31,8 @@ const { createHash } = require('node:crypto');
     await fetch(sslcnJSON['apps'][0]['downloadURL'].replace('LiveContainer.ipa', 'LiveContainer+SideStore.ipa'))
     .then((res) => res.arrayBuffer())
     .then((data) => { 
-        var hash = createHash('sha256').update(Buffer.from(data)).digest('hex'); 
-        console.log(hash);
+        var sslcnHash = createHash('sha256').update(Buffer.from(data)).digest('hex'); 
+        console.log(sslcnHash);
 
         var srcJSON = {}
         srcJSON['name'] = "LiveContainer + SideStore (unofficial nightly)";
@@ -48,7 +48,7 @@ const { createHash } = require('node:crypto');
         srcJSON['apps'][0]['date'] = srcJSON['apps'][0]['versionDate'];
         srcJSON['apps'][0]['developerName'] = "LiveContainer Team + SideStore Team";
         srcJSON['apps'][0]['screenshotURLs'] = srcJSON['apps'][0]['screenshotURLs'].concat(sideJSON['apps'][0]['screenshotURLs']);
-        srcJSON['apps'][0]['sha256'] = hash;
+        srcJSON['apps'][0]['sha256'] = sslcnHash;
         srcJSON['apps'][0]['headline'] = 'This is a reminder that this is a third-party LiveContainer and SideStore build'
         srcJSON['apps'][0]['versions'][0]['headline'] = 'This is a reminder that this is a third-party LiveContainer and SideStore build'
         srcJSON['apps'][0]['versionDescription'] = `This is a reminder that this is a third-party LiveContainer and SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you.
@@ -69,7 +69,7 @@ ${lcnJSON['apps'][0]['versions'][0]['localizedDescription']}`
                     "localizedDescription": srcJSON['apps'][0]['versionDescription'],
                     "downloadURL": srcJSON['apps'][0]['downloadURL'],
                     "size": srcJSON['apps'][0]['size'],
-                    "sha256": hash
+                    "sha256": sslcnHash
                 }
             ]
         }
@@ -99,8 +99,8 @@ ${lcnJSON['apps'][0]['versions'][0]['localizedDescription']}`
     await fetch(lcnJSON['apps'][0]['downloadURL'].replace('LiveContainer.ipa', 'LiveContainer+SideStore.ipa'))
     .then((res) => res.arrayBuffer())
     .then((data) => { 
-        var hash = createHash('sha256').update(Buffer.from(data)).digest('hex'); 
-        console.log(hash);
+        var lcnHash = createHash('sha256').update(Buffer.from(data)).digest('hex'); 
+        console.log(lcnHash);
 
         var srcJSON = lcnJSON;
         srcJSON['name'] = "LiveContainer + SideStore (nightly)";
@@ -110,7 +110,7 @@ ${lcnJSON['apps'][0]['versions'][0]['localizedDescription']}`
         srcJSON['apps'][0]['name'] = "LiveContainer + SideStore (nightly)";
         srcJSON['apps'][0]['developerName'] = "LiveContainer Team + SideStore Team";
         srcJSON['apps'][0]['screenshotURLs'] = srcJSON['apps'][0]['screenshotURLs'].concat(sideJSON['apps'][0]['screenshotURLs']);
-        srcJSON['apps'][0]['sha256'] = hash;
+        srcJSON['apps'][0]['sha256'] = lcnHash;
         srcJSON['apps'][0]['permissions'] = sideJSON['apps'][0]['permissions'];
         let appEntitlements = []
         appEntitlements = appEntitlements.concat(srcJSON['apps'][0]['appPermissions']['entitlements'])
@@ -133,8 +133,8 @@ ${lcnJSON['apps'][0]['versions'][0]['localizedDescription']}`
     await fetch('https://github.com/suprdratts/LiveContainer/releases/download/stable/LiveContainer+SideStore.ipa')
     .then((res) => res.arrayBuffer())
     .then((data) => { 
-        var hash = createHash('sha256').update(Buffer.from(data)).digest('hex'); 
-        console.log(hash);
+        var sslcHash = createHash('sha256').update(Buffer.from(data)).digest('hex'); 
+        console.log(sslcHash);
 
         var srcJSON = lcJSON;
         srcJSON['name'] = "LiveContainer + SideStore (unofficial stable)";
@@ -147,7 +147,7 @@ ${lcnJSON['apps'][0]['versions'][0]['localizedDescription']}`
         srcJSON['apps'][0]['date'] = srcJSON['apps'][0]['versionDate'];
         srcJSON['apps'][0]['developerName'] = "LiveContainer Team + SideStore Team";
         srcJSON['apps'][0]['screenshotURLs'] = srcJSON['apps'][0]['screenshotURLs'].concat(sideJSON['apps'][0]['screenshotURLs']);
-        srcJSON['apps'][0]['sha256'] = hash;
+        srcJSON['apps'][0]['sha256'] = sslcHash;
         srcJSON['apps'][0]['headline'] = 'This is a reminder that this is a third-party LiveContainer and SideStore build'
         srcJSON['apps'][0]['versions'][0]['headline'] = 'This is a reminder that this is a third-party LiveContainer and SideStore build'
         srcJSON['apps'][0]['versionDescription'] = `This is a reminder that this is a third-party LiveContainer and SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you.
@@ -168,7 +168,7 @@ ${lcJSON['apps'][0]['versions'][0]['localizedDescription']}`
                     "localizedDescription": srcJSON['apps'][0]['versionDescription'],
                     "downloadURL": srcJSON['apps'][0]['downloadURL'],
                     "size": srcJSON['apps'][0]['size'],
-                    "sha256": hash
+                    "sha256": sslcHash
                 }
             ]
         }
@@ -197,8 +197,8 @@ ${lcJSON['apps'][0]['versions'][0]['localizedDescription']}`
     await fetch(lcJSON['apps'][0]['downloadURL'].replace('LiveContainer.ipa', 'LiveContainer+SideStore.ipa'))
     .then((res) => res.arrayBuffer())
     .then((data) => { 
-        var hash = createHash('sha256').update(Buffer.from(data)).digest('hex'); 
-        console.log(hash);
+        var lcHash = createHash('sha256').update(Buffer.from(data)).digest('hex'); 
+        console.log(lcHash);
 
         var srcJSON = lcJSON;
         srcJSON['name'] = "LiveContainer + SideStore";
@@ -208,7 +208,7 @@ ${lcJSON['apps'][0]['versions'][0]['localizedDescription']}`
         srcJSON['apps'][0]['name'] = "LiveContainer + SideStore";
         srcJSON['apps'][0]['developerName'] = "LiveContainer Team + SideStore Team";
         srcJSON['apps'][0]['screenshotURLs'] = srcJSON['apps'][0]['screenshotURLs'].concat(sideJSON['apps'][0]['screenshotURLs']);
-        srcJSON['apps'][0]['sha256'] = hash;
+        srcJSON['apps'][0]['sha256'] = lcHash;
         srcJSON['apps'][0]['permissions'] = sideJSON['apps'][0]['permissions'];
         let appEntitlements = []
         appEntitlements = appEntitlements.concat(srcJSON['apps'][0]['appPermissions']['entitlements'])
