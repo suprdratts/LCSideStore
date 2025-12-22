@@ -32,6 +32,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add src.json
+          git add src.json official_nightly.json stable.json official_stable.json
           git commit -am "Update source"
           git push
