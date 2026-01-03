@@ -15,14 +15,14 @@
             "developerName": "LiveContainer Team + SideStore Team",
             "subtitle": "Run iOS apps without actually installing them!",
             "version": "3.6.60",
-            "versionDate": "2025-12-20",
-            "versionDescription": "Nightly build from [14c370b](https://github.com/LiveContainer/LiveContainer/commit/14c370b): Fix 1047\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/20401832822/attempts/1).\n",
+            "versionDate": "2025-12-21",
+            "versionDescription": "Nightly build from [6908c78](https://github.com/LiveContainer/LiveContainer/commit/6908c78): Fix 947 and probably 759\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/20673274649/attempts/1).\n",
             "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
             "localizedDescription": "Run iOS apps without actually installing them!",
             "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
             "tintColor": "#0784FC",
             "category": "utilities",
-            "size": 4387262,
+            "size": 4387422,
             "screenshotURLs": [
                 "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/1.png",
                 "https://sidestore.io/apps-v2.json/apps/sidestore/browse-dark.png",
@@ -111,17 +111,17 @@
             "versions": [
                 {
                     "version": "3.6.60",
-                    "date": "2025-12-20",
-                    "localizedDescription": "Nightly build from [14c370b](https://github.com/LiveContainer/LiveContainer/commit/14c370b): Fix 1047\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/20401832822/attempts/1).\n",
+                    "date": "2025-12-21",
+                    "localizedDescription": "Nightly build from [6908c78](https://github.com/LiveContainer/LiveContainer/commit/6908c78): Fix 947 and probably 759\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/20673274649/attempts/1).\n",
                     "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
-                    "size": 4387262,
-                    "commit": "14c370b",
-                    "headline": "Fix #1047"
+                    "size": 4387422,
+                    "commit": "6908c78",
+                    "headline": "Fix #947 and probably #759"
                 }
             ],
-            "commit": "14c370b",
-            "headline": "Fix #1047",
-            "sha256": "0c70cca7912f50b975e22c2481f74f292adf81f7ccc33b2ab64c11ac067b2cc7",
+            "commit": "6908c78",
+            "headline": "Fix #947 and probably #759",
+            "sha256": "ec158d8e9e82ff6809cec9fb88b1c7f6bbc9ecb2720c24cc3a86975f0e6bf340",
             "permissions": [
                 {
                     "type": "local-network",
