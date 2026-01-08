@@ -15,14 +15,14 @@
             "developerName": "LiveContainer Team + SideStore Team",
             "subtitle": "Run iOS apps without actually installing them!",
             "version": "3.6.60",
-            "versionDate": "2025-12-21",
-            "versionDescription": "Nightly build from [6908c78](https://github.com/LiveContainer/LiveContainer/commit/6908c78): Fix 947 and probably 759\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/20673274649/attempts/1).\n",
+            "versionDate": "2026-01-03",
+            "versionDescription": "Nightly build from [3c2228f](https://github.com/LiveContainer/LiveContainer/commit/3c2228f): Add warning for non-local container. implement 683\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/20824866990/attempts/1).\n",
             "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
             "localizedDescription": "Run iOS apps without actually installing them!",
             "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
             "tintColor": "#0784FC",
             "category": "utilities",
-            "size": 4387422,
+            "size": 4387555,
             "screenshotURLs": [
                 "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/1.png",
                 "https://sidestore.io/apps-v2.json/apps/sidestore/browse-dark.png",
@@ -111,17 +111,17 @@
             "versions": [
                 {
                     "version": "3.6.60",
-                    "date": "2025-12-21",
-                    "localizedDescription": "Nightly build from [6908c78](https://github.com/LiveContainer/LiveContainer/commit/6908c78): Fix 947 and probably 759\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/20673274649/attempts/1).\n",
+                    "date": "2026-01-03",
+                    "localizedDescription": "Nightly build from [3c2228f](https://github.com/LiveContainer/LiveContainer/commit/3c2228f): Add warning for non-local container. implement 683\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/20824866990/attempts/1).\n",
                     "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
-                    "size": 4387422,
-                    "commit": "6908c78",
-                    "headline": "Fix #947 and probably #759"
+                    "size": 4387555,
+                    "commit": "3c2228f",
+                    "headline": "Add warning for non-local container. implement #683"
                 }
             ],
-            "commit": "6908c78",
-            "headline": "Fix #947 and probably #759",
-            "sha256": "ec158d8e9e82ff6809cec9fb88b1c7f6bbc9ecb2720c24cc3a86975f0e6bf340",
+            "commit": "3c2228f",
+            "headline": "Add warning for non-local container. implement #683",
+            "sha256": "e5dbde75b9f8f89767300da65982bf570b2c490dbcf637780208780523b3186e",
             "permissions": [
                 {
                     "type": "local-network",
