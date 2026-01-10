@@ -15,14 +15,14 @@
             "developerName": "LiveContainer Team + SideStore Team",
             "subtitle": "Run iOS apps without actually installing them!",
             "version": "3.6.60",
-            "versionDate": "2026-01-03",
+            "versionDate": "2026-01-08",
             "versionDescription": "This is a reminder that this is a third-party LiveContainer and SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you.\n\nDescription from SideStore 0.6.3-20251218.25+decf21f:\nThis is release for:\n  - version: \"0.6.3-nightly.2025.12.18.25+decf21f1\"\n  - revision: \"decf21f\"\n  - timestamp: \"Thu Dec 18 04:29:20 2025\"\n\nRelease Notes:\n#### What's Changed\n- Update trusted apps identifiers and source URLs\n\n#### Full Changelog: [b2f42160...decf21f1](https://github.com/SideStore/SideStore/compare/b2f42160f9fe2462d5ae694064b0d628442760c8...decf21f177392476fabb01c47ac3395a4bcbb2ae)\n\nDescription from LiveContainer 3.6.60 (9c8e4df):\nNightly build from [9c8e4df](https://github.com/LiveContainer/LiveContainer/commit/9c8e4df): Fix cookies regression (888)\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/20878864577/attempts/1).\n",
             "downloadURL": "https://github.com/suprdratts/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
             "localizedDescription": "Run iOS apps without actually installing them!",
             "iconURL": "https://raw.githubusercontent.com/suprdratts/LiveContainer/main/screenshots/AppIcon1024.png",
             "tintColor": "#0784FC",
             "category": "utilities",
-            "size": 4387695,
+            "size": 4412503,
             "screenshotURLs": [
                 "https://raw.githubusercontent.com/suprdratts/LiveContainer/main/screenshots/1.png",
                 "https://sidestore.io/apps-v2.json/apps/sidestore/browse-dark.png",
@@ -111,22 +111,22 @@
             "versions": [
                 {
                     "version": "3.6.60",
-                    "date": "2026-01-03",
+                    "date": "2026-01-08",
                     "localizedDescription": "This is a reminder that this is a third-party LiveContainer and SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you.\n\nDescription from SideStore 0.6.3-20251218.25+decf21f:\nThis is release for:\n  - version: \"0.6.3-nightly.2025.12.18.25+decf21f1\"\n  - revision: \"decf21f\"\n  - timestamp: \"Thu Dec 18 04:29:20 2025\"\n\nRelease Notes:\n#### What's Changed\n- Update trusted apps identifiers and source URLs\n\n#### Full Changelog: [b2f42160...decf21f1](https://github.com/SideStore/SideStore/compare/b2f42160f9fe2462d5ae694064b0d628442760c8...decf21f177392476fabb01c47ac3395a4bcbb2ae)\n\nDescription from LiveContainer 3.6.60 (9c8e4df):\nNightly build from [9c8e4df](https://github.com/LiveContainer/LiveContainer/commit/9c8e4df): Fix cookies regression (888)\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/20878864577/attempts/1).\n",
                     "downloadURL": "https://github.com/suprdratts/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
-                    "size": 4387695,
-                    "commit": "34feb8f",
+                    "size": 4412503,
+                    "commit": "ec8dc12",
                     "headline": "This is a reminder that this is a third-party LiveContainer and SideStore build",
                     "releaseChannels": [
                         {
                             "releases": [
                                 {
                                     "version": "3.6.60",
-                                    "date": "2026-01-03",
+                                    "date": "2026-01-08",
                                     "localizedDescription": "This is a reminder that this is a third-party LiveContainer and SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you.\n\nDescription from SideStore 0.6.3-20251218.25+decf21f:\nThis is release for:\n  - version: \"0.6.3-nightly.2025.12.18.25+decf21f1\"\n  - revision: \"decf21f\"\n  - timestamp: \"Thu Dec 18 04:29:20 2025\"\n\nRelease Notes:\n#### What's Changed\n- Update trusted apps identifiers and source URLs\n\n#### Full Changelog: [b2f42160...decf21f1](https://github.com/SideStore/SideStore/compare/b2f42160f9fe2462d5ae694064b0d628442760c8...decf21f177392476fabb01c47ac3395a4bcbb2ae)\n\nDescription from LiveContainer 3.6.60 (9c8e4df):\nNightly build from [9c8e4df](https://github.com/LiveContainer/LiveContainer/commit/9c8e4df): Fix cookies regression (888)\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/20878864577/attempts/1).\n",
                                     "downloadURL": "https://github.com/suprdratts/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
-                                    "size": 4387695,
-                                    "sha256": "553e7823be33fe5ff1ff3ef6c50d41bb7d34cf8da7a2faba7e12ed9d67471c48"
+                                    "size": 4412503,
+                                    "sha256": "627b58ba58806889ba4b1fdc44e3cbeb66e9ba1037909de74878387a7160fb1d"
                                 }
                             ],
                             "track": "nightly"
@@ -134,10 +134,10 @@
                     ]
                 }
             ],
-            "commit": "34feb8f",
+            "commit": "ec8dc12",
             "headline": "This is a reminder that this is a third-party LiveContainer and SideStore build",
-            "date": "2026-01-03",
-            "sha256": "553e7823be33fe5ff1ff3ef6c50d41bb7d34cf8da7a2faba7e12ed9d67471c48",
+            "date": "2026-01-08",
+            "sha256": "627b58ba58806889ba4b1fdc44e3cbeb66e9ba1037909de74878387a7160fb1d",
             "permissions": [
                 {
                     "type": "local-network",
