@@ -16,13 +16,13 @@
             "subtitle": "Run iOS apps without actually installing them!",
             "version": "3.6.60",
             "versionDate": "2026-01-10",
-            "versionDescription": "Nightly build from [7b1329f](https://github.com/LiveContainer/LiveContainer/commit/7b1329f): Fix 942\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/20877588938/attempts/1).\n",
+            "versionDescription": "Nightly build from [9c8e4df](https://github.com/LiveContainer/LiveContainer/commit/9c8e4df): Fix cookies regression (888)\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/20878864577/attempts/1).\n",
             "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
             "localizedDescription": "Run iOS apps without actually installing them!",
             "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
             "tintColor": "#0784FC",
             "category": "utilities",
-            "size": 4426747,
+            "size": 4426812,
             "screenshotURLs": [
                 "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/1.png",
                 "https://sidestore.io/apps-v2.json/apps/sidestore/browse-dark.png",
@@ -112,16 +112,16 @@
                 {
                     "version": "3.6.60",
                     "date": "2026-01-10",
-                    "localizedDescription": "Nightly build from [7b1329f](https://github.com/LiveContainer/LiveContainer/commit/7b1329f): Fix 942\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/20877588938/attempts/1).\n",
+                    "localizedDescription": "Nightly build from [9c8e4df](https://github.com/LiveContainer/LiveContainer/commit/9c8e4df): Fix cookies regression (888)\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/20878864577/attempts/1).\n",
                     "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
-                    "size": 4426747,
-                    "commit": "7b1329f",
-                    "headline": "Fix #942"
+                    "size": 4426812,
+                    "commit": "9c8e4df",
+                    "headline": "Fix cookies regression (#888)"
                 }
             ],
-            "commit": "7b1329f",
-            "headline": "Fix #942",
-            "sha256": "58748acee478a4d38a573253e9c3f4a2db919cf65732869d1bc4d2b891d6e073",
+            "commit": "9c8e4df",
+            "headline": "Fix cookies regression (#888)",
+            "sha256": "de573bd34661e041f6fe005fddbeb15163862ceb19dc641575da0bfe7f82cc2b",
             "permissions": [
                 {
                     "type": "local-network",
