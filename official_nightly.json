@@ -15,14 +15,14 @@
             "developerName": "LiveContainer Team + SideStore Team",
             "subtitle": "Run iOS apps without actually installing them!",
             "version": "3.6.60",
-            "versionDate": "2026-01-03",
-            "versionDescription": "Nightly build from [3c2228f](https://github.com/LiveContainer/LiveContainer/commit/3c2228f): Add warning for non-local container. implement 683\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/20824866990/attempts/1).\n",
+            "versionDate": "2026-01-08",
+            "versionDescription": "Nightly build from [467d852](https://github.com/LiveContainer/LiveContainer/commit/467d852): Merge branch 'multitask-experimental'\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/20877452288/attempts/1).\n",
             "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
             "localizedDescription": "Run iOS apps without actually installing them!",
             "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
             "tintColor": "#0784FC",
             "category": "utilities",
-            "size": 4387555,
+            "size": 4412503,
             "screenshotURLs": [
                 "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/1.png",
                 "https://sidestore.io/apps-v2.json/apps/sidestore/browse-dark.png",
@@ -111,17 +111,17 @@
             "versions": [
                 {
                     "version": "3.6.60",
-                    "date": "2026-01-03",
-                    "localizedDescription": "Nightly build from [3c2228f](https://github.com/LiveContainer/LiveContainer/commit/3c2228f): Add warning for non-local container. implement 683\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/20824866990/attempts/1).\n",
+                    "date": "2026-01-08",
+                    "localizedDescription": "Nightly build from [467d852](https://github.com/LiveContainer/LiveContainer/commit/467d852): Merge branch 'multitask-experimental'\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/20877452288/attempts/1).\n",
                     "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
-                    "size": 4387555,
-                    "commit": "3c2228f",
-                    "headline": "Add warning for non-local container. implement #683"
+                    "size": 4412503,
+                    "commit": "467d852",
+                    "headline": "Merge branch 'multitask-experimental'"
                 }
             ],
-            "commit": "3c2228f",
-            "headline": "Add warning for non-local container. implement #683",
-            "sha256": "e5dbde75b9f8f89767300da65982bf570b2c490dbcf637780208780523b3186e",
+            "commit": "467d852",
+            "headline": "Merge branch 'multitask-experimental'",
+            "sha256": "201339fbc4af1be7eaf3ef4917836cdfe05177d288862342bb2343f442d01296",
             "permissions": [
                 {
                     "type": "local-network",
