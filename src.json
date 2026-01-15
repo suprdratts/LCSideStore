@@ -14,15 +14,15 @@
             "bundleIdentifier": "com.kdt.livecontainer",
             "developerName": "LiveContainer Team + SideStore Team",
             "subtitle": "Run iOS apps without actually installing them!",
-            "version": "3.6.60",
-            "versionDate": "2026-01-08",
+            "version": "3.6.61",
+            "versionDate": "2026-01-10",
             "versionDescription": "This is a reminder that this is a third-party LiveContainer and SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you.\n\nDescription from SideStore 0.6.3-20260110.25+1d642e2:\nThis is release for:\n  - version: \"0.6.3-nightly.2026.01.10.25+1d642e2f\"\n  - revision: \"1d642e2\"\n  - timestamp: \"Sat Jan 10 19:39:52 2026\"\n\nRelease Notes:\n#### What's Changed\n- Update pairing file help link in alert (#1147)\n\n#### Full Changelog: [decf21f1...1d642e2f](https://github.com/SideStore/SideStore/compare/decf21f177392476fabb01c47ac3395a4bcbb2ae...1d642e2ffa0b6d8e21253ede1b42fb519a2f3170)\n\nDescription from LiveContainer 3.6.61 (b329101):\nNightly build from [b329101](https://github.com/LiveContainer/LiveContainer/commit/b329101): Fix 1087, implement 190: use IconServices to generate icons\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21036170877/attempts/1).\n",
             "downloadURL": "https://github.com/suprdratts/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
             "localizedDescription": "Run iOS apps without actually installing them!",
             "iconURL": "https://raw.githubusercontent.com/suprdratts/LiveContainer/main/screenshots/AppIcon1024.png",
             "tintColor": "#0784FC",
             "category": "utilities",
-            "size": 4412503,
+            "size": 4426842,
             "screenshotURLs": [
                 "https://raw.githubusercontent.com/suprdratts/LiveContainer/main/screenshots/1.png",
                 "https://sidestore.io/apps-v2.json/apps/sidestore/browse-dark.png",
@@ -110,23 +110,23 @@
             },
             "versions": [
                 {
-                    "version": "3.6.60",
-                    "date": "2026-01-08",
+                    "version": "3.6.61",
+                    "date": "2026-01-10",
                     "localizedDescription": "This is a reminder that this is a third-party LiveContainer and SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you.\n\nDescription from SideStore 0.6.3-20260110.25+1d642e2:\nThis is release for:\n  - version: \"0.6.3-nightly.2026.01.10.25+1d642e2f\"\n  - revision: \"1d642e2\"\n  - timestamp: \"Sat Jan 10 19:39:52 2026\"\n\nRelease Notes:\n#### What's Changed\n- Update pairing file help link in alert (#1147)\n\n#### Full Changelog: [decf21f1...1d642e2f](https://github.com/SideStore/SideStore/compare/decf21f177392476fabb01c47ac3395a4bcbb2ae...1d642e2ffa0b6d8e21253ede1b42fb519a2f3170)\n\nDescription from LiveContainer 3.6.61 (b329101):\nNightly build from [b329101](https://github.com/LiveContainer/LiveContainer/commit/b329101): Fix 1087, implement 190: use IconServices to generate icons\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21036170877/attempts/1).\n",
                     "downloadURL": "https://github.com/suprdratts/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
-                    "size": 4412503,
-                    "commit": "ec8dc12",
+                    "size": 4426842,
+                    "commit": "ab1a629",
                     "headline": "This is a reminder that this is a third-party LiveContainer and SideStore build",
                     "releaseChannels": [
                         {
                             "releases": [
                                 {
-                                    "version": "3.6.60",
-                                    "date": "2026-01-08",
+                                    "version": "3.6.61",
+                                    "date": "2026-01-10",
                                     "localizedDescription": "This is a reminder that this is a third-party LiveContainer and SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you.\n\nDescription from SideStore 0.6.3-20260110.25+1d642e2:\nThis is release for:\n  - version: \"0.6.3-nightly.2026.01.10.25+1d642e2f\"\n  - revision: \"1d642e2\"\n  - timestamp: \"Sat Jan 10 19:39:52 2026\"\n\nRelease Notes:\n#### What's Changed\n- Update pairing file help link in alert (#1147)\n\n#### Full Changelog: [decf21f1...1d642e2f](https://github.com/SideStore/SideStore/compare/decf21f177392476fabb01c47ac3395a4bcbb2ae...1d642e2ffa0b6d8e21253ede1b42fb519a2f3170)\n\nDescription from LiveContainer 3.6.61 (b329101):\nNightly build from [b329101](https://github.com/LiveContainer/LiveContainer/commit/b329101): Fix 1087, implement 190: use IconServices to generate icons\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21036170877/attempts/1).\n",
                                     "downloadURL": "https://github.com/suprdratts/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
-                                    "size": 4412503,
-                                    "sha256": "627b58ba58806889ba4b1fdc44e3cbeb66e9ba1037909de74878387a7160fb1d"
+                                    "size": 4426842,
+                                    "sha256": "e174930525b7880fbbe9b21f4067ae0c12b6d125ed794323623b5a74a951b5d1"
                                 }
                             ],
                             "track": "nightly"
@@ -134,10 +134,10 @@
                     ]
                 }
             ],
-            "commit": "ec8dc12",
+            "commit": "ab1a629",
             "headline": "This is a reminder that this is a third-party LiveContainer and SideStore build",
-            "date": "2026-01-08",
-            "sha256": "627b58ba58806889ba4b1fdc44e3cbeb66e9ba1037909de74878387a7160fb1d",
+            "date": "2026-01-10",
+            "sha256": "e174930525b7880fbbe9b21f4067ae0c12b6d125ed794323623b5a74a951b5d1",
             "permissions": [
                 {
                     "type": "local-network",
