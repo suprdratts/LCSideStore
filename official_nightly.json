@@ -15,14 +15,14 @@
             "developerName": "LiveContainer Team + SideStore Team",
             "subtitle": "Run iOS apps without actually installing them!",
             "version": "3.6.61",
-            "versionDate": "2026-01-10",
-            "versionDescription": "Nightly build from [b329101](https://github.com/LiveContainer/LiveContainer/commit/b329101): Fix 1087, implement 190: use IconServices to generate icons\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21036170877/attempts/1).\n",
+            "versionDate": "2026-01-15",
+            "versionDescription": "Nightly build from [10fca20](https://github.com/LiveContainer/LiveContainer/commit/10fca20): Update translation\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21055781338/attempts/1).\n",
             "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
             "localizedDescription": "Run iOS apps without actually installing them!",
             "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
             "tintColor": "#0784FC",
             "category": "utilities",
-            "size": 4426838,
+            "size": 4433661,
             "screenshotURLs": [
                 "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/1.png",
                 "https://sidestore.io/apps-v2.json/apps/sidestore/browse-dark.png",
@@ -111,17 +111,17 @@
             "versions": [
                 {
                     "version": "3.6.61",
-                    "date": "2026-01-10",
-                    "localizedDescription": "Nightly build from [b329101](https://github.com/LiveContainer/LiveContainer/commit/b329101): Fix 1087, implement 190: use IconServices to generate icons\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21036170877/attempts/1).\n",
+                    "date": "2026-01-15",
+                    "localizedDescription": "Nightly build from [10fca20](https://github.com/LiveContainer/LiveContainer/commit/10fca20): Update translation\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21055781338/attempts/1).\n",
                     "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
-                    "size": 4426838,
-                    "commit": "b329101",
-                    "headline": "Fix #1087, implement #190: use IconServices to generate icons"
+                    "size": 4433661,
+                    "commit": "10fca20",
+                    "headline": "Update translation"
                 }
             ],
-            "commit": "b329101",
-            "headline": "Fix #1087, implement #190: use IconServices to generate icons",
-            "sha256": "f5f9a51f34f23633c2df2f25d81192bbc023b04e5397eb6a873bc9a724b45ee1",
+            "commit": "10fca20",
+            "headline": "Update translation",
+            "sha256": "0e8395ff9eb8398d0cca7d7972f073613623dbc183fe63ab8b10c253f2488227",
             "permissions": [
                 {
                     "type": "local-network",
