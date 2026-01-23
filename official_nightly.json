@@ -14,15 +14,15 @@
             "bundleIdentifier": "com.kdt.livecontainer",
             "developerName": "LiveContainer Team + SideStore Team",
             "subtitle": "Run iOS apps without actually installing them!",
-            "version": "3.6.61",
-            "versionDate": "2026-01-16",
-            "versionDescription": "Nightly build from [89b1aa0](https://github.com/LiveContainer/LiveContainer/commit/89b1aa0): Throw error when LiveProcess is not installed\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21107268725/attempts/1).\n",
+            "version": "3.6.62",
+            "versionDate": "2026-01-18",
+            "versionDescription": "Nightly build from [bf2cf2c](https://github.com/LiveContainer/LiveContainer/commit/bf2cf2c): Launch app extension & shortcut\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21276058676/attempts/1).\n",
             "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
             "localizedDescription": "Run iOS apps without actually installing them!",
             "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
             "tintColor": "#0784FC",
             "category": "utilities",
-            "size": 4444776,
+            "size": 4444879,
             "screenshotURLs": [
                 "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/1.png",
                 "https://sidestore.io/apps-v2.json/apps/sidestore/browse-dark.png",
@@ -110,18 +110,18 @@
             },
             "versions": [
                 {
-                    "version": "3.6.61",
-                    "date": "2026-01-16",
-                    "localizedDescription": "Nightly build from [89b1aa0](https://github.com/LiveContainer/LiveContainer/commit/89b1aa0): Throw error when LiveProcess is not installed\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21107268725/attempts/1).\n",
+                    "version": "3.6.62",
+                    "date": "2026-01-18",
+                    "localizedDescription": "Nightly build from [bf2cf2c](https://github.com/LiveContainer/LiveContainer/commit/bf2cf2c): Launch app extension & shortcut\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21276058676/attempts/1).\n",
                     "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
-                    "size": 4444776,
-                    "commit": "89b1aa0",
-                    "headline": "Throw error when LiveProcess is not installed"
+                    "size": 4444879,
+                    "commit": "bf2cf2c",
+                    "headline": "Launch app extension & shortcut"
                 }
             ],
-            "commit": "89b1aa0",
-            "headline": "Throw error when LiveProcess is not installed",
-            "sha256": "4c1e6d25bed233d634f3ebe3f6eba3a77138a2576a77cf327e7c17bff5bedfa5",
+            "commit": "bf2cf2c",
+            "headline": "Launch app extension & shortcut",
+            "sha256": "98754b6e4c0200209b1999bd4f18326de3c781f2147469893b3a2143fa880cb0",
             "permissions": [
                 {
                     "type": "local-network",
