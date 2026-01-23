@@ -15,14 +15,14 @@
             "developerName": "LiveContainer Team + SideStore Team",
             "subtitle": "Run iOS apps without actually installing them!",
             "version": "3.6.62",
-            "versionDate": "2026-01-18",
-            "versionDescription": "Nightly build from [bf2cf2c](https://github.com/LiveContainer/LiveContainer/commit/bf2cf2c): Launch app extension & shortcut\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21276058676/attempts/1).\n",
+            "versionDate": "2026-01-23",
+            "versionDescription": "Nightly build from [c730d9c](https://github.com/LiveContainer/LiveContainer/commit/c730d9c): Fix signing issues\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21276605637/attempts/1).\n",
             "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
             "localizedDescription": "Run iOS apps without actually installing them!",
             "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
             "tintColor": "#0784FC",
             "category": "utilities",
-            "size": 4444879,
+            "size": 4470770,
             "screenshotURLs": [
                 "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/1.png",
                 "https://sidestore.io/apps-v2.json/apps/sidestore/browse-dark.png",
@@ -111,17 +111,17 @@
             "versions": [
                 {
                     "version": "3.6.62",
-                    "date": "2026-01-18",
-                    "localizedDescription": "Nightly build from [bf2cf2c](https://github.com/LiveContainer/LiveContainer/commit/bf2cf2c): Launch app extension & shortcut\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21276058676/attempts/1).\n",
+                    "date": "2026-01-23",
+                    "localizedDescription": "Nightly build from [c730d9c](https://github.com/LiveContainer/LiveContainer/commit/c730d9c): Fix signing issues\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21276605637/attempts/1).\n",
                     "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
-                    "size": 4444879,
-                    "commit": "bf2cf2c",
-                    "headline": "Launch app extension & shortcut"
+                    "size": 4470770,
+                    "commit": "c730d9c",
+                    "headline": "Fix signing issues"
                 }
             ],
-            "commit": "bf2cf2c",
-            "headline": "Launch app extension & shortcut",
-            "sha256": "98754b6e4c0200209b1999bd4f18326de3c781f2147469893b3a2143fa880cb0",
+            "commit": "c730d9c",
+            "headline": "Fix signing issues",
+            "sha256": "e76fd5e644dd16318d7f0f3e2baa5d82cd747780314964252a610b1435cad2a8",
             "permissions": [
                 {
                     "type": "local-network",
