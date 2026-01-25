@@ -15,14 +15,14 @@
             "developerName": "LiveContainer Team + SideStore Team",
             "subtitle": "Run iOS apps without actually installing them!",
             "version": "3.6.62",
-            "versionDate": "2026-01-18",
-            "versionDescription": "This is a reminder that this is a third-party LiveContainer and SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you.\n\nDescription from SideStore 0.6.3-20260125.25+6397531:\nThis is release for:\n  - version: \"0.6.3-nightly.2026.01.25.25+63975314\"\n  - revision: \"6397531\"\n  - timestamp: \"Sun Jan 25 04:50:24 2026\"\n\nRelease Notes:\n#### What's Changed\n- fix typo & log token login error\n- Authentication rework, cache session, save and login with adsid and xcodeToken to alleviate GSA connection issue in some regions. Fix a timezone issue when extracting anisette data\n\n#### Full Changelog: [1d642e2f...63975314](https://github.com/SideStore/SideStore/compare/1d642e2ffa0b6d8e21253ede1b42fb519a2f3170...639753149f3682c304986c9eafc5795c8b19f5ef)\n\nDescription from LiveContainer 3.6.62 (98a05a7):\nNightly build from [98a05a7](https://github.com/LiveContainer/LiveContainer/commit/98a05a7): Automatically switch to running apps, fix issues launching private app, check path exist before initializing bundle\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21278505551/attempts/1).\n",
+            "versionDate": "2026-01-23",
+            "versionDescription": "This is a reminder that this is a third-party LiveContainer and SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you.\n\nDescription from SideStore 0.6.3-20260125.25+6397531:\nThis is release for:\n  - version: \"0.6.3-nightly.2026.01.25.25+63975314\"\n  - revision: \"6397531\"\n  - timestamp: \"Sun Jan 25 04:50:24 2026\"\n\nRelease Notes:\n#### What's Changed\n- fix typo & log token login error\n- Authentication rework, cache session, save and login with adsid and xcodeToken to alleviate GSA connection issue in some regions. Fix a timezone issue when extracting anisette data\n\n#### Full Changelog: [1d642e2f...63975314](https://github.com/SideStore/SideStore/compare/1d642e2ffa0b6d8e21253ede1b42fb519a2f3170...639753149f3682c304986c9eafc5795c8b19f5ef)\n\nDescription from LiveContainer 3.6.62 (7c68fe2):\nNightly build from [7c68fe2](https://github.com/LiveContainer/LiveContainer/commit/7c68fe2): Fix 1112\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21329385820/attempts/1).\n",
             "downloadURL": "https://github.com/suprdratts/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
             "localizedDescription": "Run iOS apps without actually installing them!",
             "iconURL": "https://raw.githubusercontent.com/suprdratts/LiveContainer/main/screenshots/AppIcon1024.png",
             "tintColor": "#0784FC",
             "category": "utilities",
-            "size": 4444877,
+            "size": 4470713,
             "screenshotURLs": [
                 "https://raw.githubusercontent.com/suprdratts/LiveContainer/main/screenshots/1.png",
                 "https://sidestore.io/apps-v2.json/apps/sidestore/browse-dark.png",
@@ -111,22 +111,22 @@
             "versions": [
                 {
                     "version": "3.6.62",
-                    "date": "2026-01-18",
-                    "localizedDescription": "This is a reminder that this is a third-party LiveContainer and SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you.\n\nDescription from SideStore 0.6.3-20260125.25+6397531:\nThis is release for:\n  - version: \"0.6.3-nightly.2026.01.25.25+63975314\"\n  - revision: \"6397531\"\n  - timestamp: \"Sun Jan 25 04:50:24 2026\"\n\nRelease Notes:\n#### What's Changed\n- fix typo & log token login error\n- Authentication rework, cache session, save and login with adsid and xcodeToken to alleviate GSA connection issue in some regions. Fix a timezone issue when extracting anisette data\n\n#### Full Changelog: [1d642e2f...63975314](https://github.com/SideStore/SideStore/compare/1d642e2ffa0b6d8e21253ede1b42fb519a2f3170...639753149f3682c304986c9eafc5795c8b19f5ef)\n\nDescription from LiveContainer 3.6.62 (98a05a7):\nNightly build from [98a05a7](https://github.com/LiveContainer/LiveContainer/commit/98a05a7): Automatically switch to running apps, fix issues launching private app, check path exist before initializing bundle\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21278505551/attempts/1).\n",
+                    "date": "2026-01-23",
+                    "localizedDescription": "This is a reminder that this is a third-party LiveContainer and SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you.\n\nDescription from SideStore 0.6.3-20260125.25+6397531:\nThis is release for:\n  - version: \"0.6.3-nightly.2026.01.25.25+63975314\"\n  - revision: \"6397531\"\n  - timestamp: \"Sun Jan 25 04:50:24 2026\"\n\nRelease Notes:\n#### What's Changed\n- fix typo & log token login error\n- Authentication rework, cache session, save and login with adsid and xcodeToken to alleviate GSA connection issue in some regions. Fix a timezone issue when extracting anisette data\n\n#### Full Changelog: [1d642e2f...63975314](https://github.com/SideStore/SideStore/compare/1d642e2ffa0b6d8e21253ede1b42fb519a2f3170...639753149f3682c304986c9eafc5795c8b19f5ef)\n\nDescription from LiveContainer 3.6.62 (7c68fe2):\nNightly build from [7c68fe2](https://github.com/LiveContainer/LiveContainer/commit/7c68fe2): Fix 1112\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21329385820/attempts/1).\n",
                     "downloadURL": "https://github.com/suprdratts/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
-                    "size": 4444877,
-                    "commit": "fef8219",
+                    "size": 4470713,
+                    "commit": "3bc54c5",
                     "headline": "This is a reminder that this is a third-party LiveContainer and SideStore build",
                     "releaseChannels": [
                         {
                             "releases": [
                                 {
                                     "version": "3.6.62",
-                                    "date": "2026-01-18",
-                                    "localizedDescription": "This is a reminder that this is a third-party LiveContainer and SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you.\n\nDescription from SideStore 0.6.3-20260125.25+6397531:\nThis is release for:\n  - version: \"0.6.3-nightly.2026.01.25.25+63975314\"\n  - revision: \"6397531\"\n  - timestamp: \"Sun Jan 25 04:50:24 2026\"\n\nRelease Notes:\n#### What's Changed\n- fix typo & log token login error\n- Authentication rework, cache session, save and login with adsid and xcodeToken to alleviate GSA connection issue in some regions. Fix a timezone issue when extracting anisette data\n\n#### Full Changelog: [1d642e2f...63975314](https://github.com/SideStore/SideStore/compare/1d642e2ffa0b6d8e21253ede1b42fb519a2f3170...639753149f3682c304986c9eafc5795c8b19f5ef)\n\nDescription from LiveContainer 3.6.62 (98a05a7):\nNightly build from [98a05a7](https://github.com/LiveContainer/LiveContainer/commit/98a05a7): Automatically switch to running apps, fix issues launching private app, check path exist before initializing bundle\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21278505551/attempts/1).\n",
+                                    "date": "2026-01-23",
+                                    "localizedDescription": "This is a reminder that this is a third-party LiveContainer and SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you.\n\nDescription from SideStore 0.6.3-20260125.25+6397531:\nThis is release for:\n  - version: \"0.6.3-nightly.2026.01.25.25+63975314\"\n  - revision: \"6397531\"\n  - timestamp: \"Sun Jan 25 04:50:24 2026\"\n\nRelease Notes:\n#### What's Changed\n- fix typo & log token login error\n- Authentication rework, cache session, save and login with adsid and xcodeToken to alleviate GSA connection issue in some regions. Fix a timezone issue when extracting anisette data\n\n#### Full Changelog: [1d642e2f...63975314](https://github.com/SideStore/SideStore/compare/1d642e2ffa0b6d8e21253ede1b42fb519a2f3170...639753149f3682c304986c9eafc5795c8b19f5ef)\n\nDescription from LiveContainer 3.6.62 (7c68fe2):\nNightly build from [7c68fe2](https://github.com/LiveContainer/LiveContainer/commit/7c68fe2): Fix 1112\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21329385820/attempts/1).\n",
                                     "downloadURL": "https://github.com/suprdratts/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
-                                    "size": 4444877,
-                                    "sha256": "0a5423f9968fedc261872216da99a7a27f14d2c5ae0becf49d5d8d75f94dc301"
+                                    "size": 4470713,
+                                    "sha256": "33de34f06dca6a3cffe31eab4c1e8a4639fe36717c2a962b7d7de9f8ba631c0e"
                                 }
                             ],
                             "track": "nightly"
@@ -134,10 +134,10 @@
                     ]
                 }
             ],
-            "commit": "fef8219",
+            "commit": "3bc54c5",
             "headline": "This is a reminder that this is a third-party LiveContainer and SideStore build",
-            "date": "2026-01-18",
-            "sha256": "0a5423f9968fedc261872216da99a7a27f14d2c5ae0becf49d5d8d75f94dc301",
+            "date": "2026-01-23",
+            "sha256": "33de34f06dca6a3cffe31eab4c1e8a4639fe36717c2a962b7d7de9f8ba631c0e",
             "permissions": [
                 {
                     "type": "local-network",

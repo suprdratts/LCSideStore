@@ -16,13 +16,13 @@
             "subtitle": "Run iOS apps without actually installing them!",
             "version": "3.6.62",
             "versionDate": "2026-01-23",
-            "versionDescription": "Nightly build from [98a05a7](https://github.com/LiveContainer/LiveContainer/commit/98a05a7): Automatically switch to running apps, fix issues launching private app, check path exist before initializing bundle\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21278505551/attempts/1).\n",
+            "versionDescription": "Nightly build from [7c68fe2](https://github.com/LiveContainer/LiveContainer/commit/7c68fe2): Fix 1112\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21329385820/attempts/1).\n",
             "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
             "localizedDescription": "Run iOS apps without actually installing them!",
             "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
             "tintColor": "#0784FC",
             "category": "utilities",
-            "size": 4470733,
+            "size": 4470763,
             "screenshotURLs": [
                 "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/1.png",
                 "https://sidestore.io/apps-v2.json/apps/sidestore/browse-dark.png",
@@ -112,16 +112,16 @@
                 {
                     "version": "3.6.62",
                     "date": "2026-01-23",
-                    "localizedDescription": "Nightly build from [98a05a7](https://github.com/LiveContainer/LiveContainer/commit/98a05a7): Automatically switch to running apps, fix issues launching private app, check path exist before initializing bundle\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21278505551/attempts/1).\n",
+                    "localizedDescription": "Nightly build from [7c68fe2](https://github.com/LiveContainer/LiveContainer/commit/7c68fe2): Fix 1112\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21329385820/attempts/1).\n",
                     "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
-                    "size": 4470733,
-                    "commit": "98a05a7",
-                    "headline": "Automatically switch to running apps, fix issues launching private app, check path exist before initializing bundle"
+                    "size": 4470763,
+                    "commit": "7c68fe2",
+                    "headline": "Fix #1112"
                 }
             ],
-            "commit": "98a05a7",
-            "headline": "Automatically switch to running apps, fix issues launching private app, check path exist before initializing bundle",
-            "sha256": "e652fbd55e6cb2cfdbb916a851f9d82c24ff1acb86d14ded8c2af60dbed46249",
+            "commit": "7c68fe2",
+            "headline": "Fix #1112",
+            "sha256": "3cc80f1bb77af3f60ef8eb7c716017729e85e8203257f7dd470b28e2b784793b",
             "permissions": [
                 {
                     "type": "local-network",
