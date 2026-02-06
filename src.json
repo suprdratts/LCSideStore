@@ -15,14 +15,14 @@
             "developerName": "LiveContainer Team + SideStore Team",
             "subtitle": "Run iOS apps without actually installing them!",
             "version": "3.6.63",
-            "versionDate": "2026-01-26",
+            "versionDate": "2026-02-05",
             "versionDescription": "This is a reminder that this is a third-party LiveContainer and SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you.\n\nDescription from SideStore 0.6.3-20260205.25+e155081:\nThis is release for:\n  - version: \"0.6.3-nightly.2026.02.05.25+e1550811\"\n  - revision: \"e155081\"\n  - timestamp: \"Thu Feb  5 00:09:17 2026\"\n\nRelease Notes:\n#### What's Changed\n- feat: Add UntitledCharts to Trusted Sources (#1160)\n\n#### Full Changelog: [8730ae42...e1550811](https://github.com/SideStore/SideStore/compare/8730ae42c6a1739a754979a1e39b6a83b36435fb...e1550811eb781cc788c6b31ceee2629f73b3312a)\n\nDescription from LiveContainer 3.6.63 (fd6b650):\nNightly build from [fd6b650](https://github.com/LiveContainer/LiveContainer/commit/fd6b650): Fix 1130 by sanitizing decompressed path\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21757348427/attempts/1).\n",
             "downloadURL": "https://github.com/suprdratts/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
             "localizedDescription": "Run iOS apps without actually installing them!",
             "iconURL": "https://raw.githubusercontent.com/suprdratts/LiveContainer/main/screenshots/AppIcon1024.png",
             "tintColor": "#0784FC",
             "category": "utilities",
-            "size": 4470857,
+            "size": 4498997,
             "screenshotURLs": [
                 "https://raw.githubusercontent.com/suprdratts/LiveContainer/main/screenshots/1.png",
                 "https://sidestore.io/apps-v2.json/apps/sidestore/browse-dark.png",
@@ -111,22 +111,22 @@
             "versions": [
                 {
                     "version": "3.6.63",
-                    "date": "2026-01-26",
+                    "date": "2026-02-05",
                     "localizedDescription": "This is a reminder that this is a third-party LiveContainer and SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you.\n\nDescription from SideStore 0.6.3-20260205.25+e155081:\nThis is release for:\n  - version: \"0.6.3-nightly.2026.02.05.25+e1550811\"\n  - revision: \"e155081\"\n  - timestamp: \"Thu Feb  5 00:09:17 2026\"\n\nRelease Notes:\n#### What's Changed\n- feat: Add UntitledCharts to Trusted Sources (#1160)\n\n#### Full Changelog: [8730ae42...e1550811](https://github.com/SideStore/SideStore/compare/8730ae42c6a1739a754979a1e39b6a83b36435fb...e1550811eb781cc788c6b31ceee2629f73b3312a)\n\nDescription from LiveContainer 3.6.63 (fd6b650):\nNightly build from [fd6b650](https://github.com/LiveContainer/LiveContainer/commit/fd6b650): Fix 1130 by sanitizing decompressed path\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21757348427/attempts/1).\n",
                     "downloadURL": "https://github.com/suprdratts/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
-                    "size": 4470857,
-                    "commit": "dcb3d5c",
+                    "size": 4498997,
+                    "commit": "9bf5a60",
                     "headline": "This is a reminder that this is a third-party LiveContainer and SideStore build",
                     "releaseChannels": [
                         {
                             "releases": [
                                 {
                                     "version": "3.6.63",
-                                    "date": "2026-01-26",
+                                    "date": "2026-02-05",
                                     "localizedDescription": "This is a reminder that this is a third-party LiveContainer and SideStore build. You will not receive support for these builds: no one from the LiveContainer team or the SideStore team will help you.\n\nDescription from SideStore 0.6.3-20260205.25+e155081:\nThis is release for:\n  - version: \"0.6.3-nightly.2026.02.05.25+e1550811\"\n  - revision: \"e155081\"\n  - timestamp: \"Thu Feb  5 00:09:17 2026\"\n\nRelease Notes:\n#### What's Changed\n- feat: Add UntitledCharts to Trusted Sources (#1160)\n\n#### Full Changelog: [8730ae42...e1550811](https://github.com/SideStore/SideStore/compare/8730ae42c6a1739a754979a1e39b6a83b36435fb...e1550811eb781cc788c6b31ceee2629f73b3312a)\n\nDescription from LiveContainer 3.6.63 (fd6b650):\nNightly build from [fd6b650](https://github.com/LiveContainer/LiveContainer/commit/fd6b650): Fix 1130 by sanitizing decompressed path\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21757348427/attempts/1).\n",
                                     "downloadURL": "https://github.com/suprdratts/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
-                                    "size": 4470857,
-                                    "sha256": "bbf564f2ef511b19eca637aa5bcfbbf759542a9a87c0df0036c78d62b04b0362"
+                                    "size": 4498997,
+                                    "sha256": "04fe1240b3ddc3b6f2780721602ec8b9fb17b833d91e0a2ecd88d725c8b2a5ac"
                                 }
                             ],
                             "track": "nightly"
@@ -134,10 +134,10 @@
                     ]
                 }
             ],
-            "commit": "dcb3d5c",
+            "commit": "9bf5a60",
             "headline": "This is a reminder that this is a third-party LiveContainer and SideStore build",
-            "date": "2026-01-26",
-            "sha256": "bbf564f2ef511b19eca637aa5bcfbbf759542a9a87c0df0036c78d62b04b0362",
+            "date": "2026-02-05",
+            "sha256": "04fe1240b3ddc3b6f2780721602ec8b9fb17b833d91e0a2ecd88d725c8b2a5ac",
             "permissions": [
                 {
                     "type": "local-network",
