@@ -15,14 +15,14 @@
             "developerName": "LiveContainer Team + SideStore Team",
             "subtitle": "Run iOS apps without actually installing them!",
             "version": "3.6.63",
-            "versionDate": "2026-01-26",
-            "versionDescription": "Nightly build from [4f096e4](https://github.com/LiveContainer/LiveContainer/commit/4f096e4): update xcode version\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21702424387/attempts/1).\n",
+            "versionDate": "2026-02-05",
+            "versionDescription": "Nightly build from [fd6b650](https://github.com/LiveContainer/LiveContainer/commit/fd6b650): Fix 1130 by sanitizing decompressed path\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21757348427/attempts/1).\n",
             "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
             "localizedDescription": "Run iOS apps without actually installing them!",
             "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
             "tintColor": "#0784FC",
             "category": "utilities",
-            "size": 4470809,
+            "size": 4498933,
             "screenshotURLs": [
                 "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/1.png",
                 "https://sidestore.io/apps-v2.json/apps/sidestore/browse-dark.png",
@@ -111,17 +111,17 @@
             "versions": [
                 {
                     "version": "3.6.63",
-                    "date": "2026-01-26",
-                    "localizedDescription": "Nightly build from [4f096e4](https://github.com/LiveContainer/LiveContainer/commit/4f096e4): update xcode version\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21702424387/attempts/1).\n",
+                    "date": "2026-02-05",
+                    "localizedDescription": "Nightly build from [fd6b650](https://github.com/LiveContainer/LiveContainer/commit/fd6b650): Fix 1130 by sanitizing decompressed path\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21757348427/attempts/1).\n",
                     "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
-                    "size": 4470809,
-                    "commit": "4f096e4",
-                    "headline": "update xcode version"
+                    "size": 4498933,
+                    "commit": "fd6b650",
+                    "headline": "Fix #1130 by sanitizing decompressed path"
                 }
             ],
-            "commit": "4f096e4",
-            "headline": "update xcode version",
-            "sha256": "4761804fb73b91e4fe02c92d815662f7c469d75be2a6643d9a5f1949fb597b61",
+            "commit": "fd6b650",
+            "headline": "Fix #1130 by sanitizing decompressed path",
+            "sha256": "65c4f86d300ef29885466f11e9a9d9a440fb1b585e29969c616ac2f59aeb29f0",
             "permissions": [
                 {
                     "type": "local-network",
