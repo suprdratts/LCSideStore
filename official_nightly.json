@@ -15,14 +15,14 @@
             "developerName": "LiveContainer Team + SideStore Team",
             "subtitle": "Run iOS apps without actually installing them!",
             "version": "3.6.63",
-            "versionDate": "2026-02-06",
-            "versionDescription": "Nightly build from [563d0f4](https://github.com/LiveContainer/LiveContainer/commit/563d0f4): Fix: correct error message when input http url is not ipa (1134)\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21791437274/attempts/1).\n",
+            "versionDate": "2026-02-08",
+            "versionDescription": "Nightly build from [7de4b09](https://github.com/LiveContainer/LiveContainer/commit/7de4b09): should fix 1060\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21796380949/attempts/1).\n",
             "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
             "localizedDescription": "Run iOS apps without actually installing them!",
             "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
             "tintColor": "#0784FC",
             "category": "utilities",
-            "size": 4500680,
+            "size": 4502846,
             "screenshotURLs": [
                 "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/1.png",
                 "https://sidestore.io/apps-v2.json/apps/sidestore/browse-dark.png",
@@ -111,17 +111,17 @@
             "versions": [
                 {
                     "version": "3.6.63",
-                    "date": "2026-02-06",
-                    "localizedDescription": "Nightly build from [563d0f4](https://github.com/LiveContainer/LiveContainer/commit/563d0f4): Fix: correct error message when input http url is not ipa (1134)\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21791437274/attempts/1).\n",
+                    "date": "2026-02-08",
+                    "localizedDescription": "Nightly build from [7de4b09](https://github.com/LiveContainer/LiveContainer/commit/7de4b09): should fix 1060\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/21796380949/attempts/1).\n",
                     "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
-                    "size": 4500680,
-                    "commit": "563d0f4",
-                    "headline": "Fix: correct error message when input http url is not ipa (#1134)"
+                    "size": 4502846,
+                    "commit": "7de4b09",
+                    "headline": "should fix #1060"
                 }
             ],
-            "commit": "563d0f4",
-            "headline": "Fix: correct error message when input http url is not ipa (#1134)",
-            "sha256": "be60a9e2298a4df9e79c76e14d61d433e947d7bf6003078a77c345c407b41c10",
+            "commit": "7de4b09",
+            "headline": "should fix #1060",
+            "sha256": "8a6480565330ca9e56e53e1f06730d2dda3bf58315caec6920ee312fc068aa76",
             "permissions": [
                 {
                     "type": "local-network",
